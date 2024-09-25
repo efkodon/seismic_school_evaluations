@@ -1,0 +1,557 @@
+Priority level,District Name,Facility Name,Building Name,ICOS#
+Very High,Aberdeen,Hopkins Building (Harbor High School),Hopkins Building,57394
+Very High,Aberdeen,J. M. Weatherwax High School,1964 Gymnasium Building,57378
+Very High,Aberdeen,McDermoth Elementary School,Main Building,57397
+Very High,Anacortes,Mount Erie Elementary School,1955 Original Main Building,54084
+Very High,Boistfort,Boistfort Elementary,Gymnasium Building,57720
+Very High,Boistfort,Boistfort Elementary,Main Building,57717
+Very High,Burlington-Edison,Burlington-Edison High School,Art/Tiger TUB Building,50119
+Very High,Burlington-Edison,Burlington-Edison High School,Cafeteria and 400 Wing,50117
+Very High,Burlington-Edison,Burlington-Edison High School,CTE,50110
+Very High,Burlington-Edison,Burlington-Edison High School,Fieldhouse 1953 and 1975,50109
+Very High,Burlington-Edison,West View Elementary School School,Main Building,50095
+Very High,Cape Flattery,Clallam Bay High and Elementary School,High School Building,57823
+Very High,Cape Flattery,Neah Bay Elementary School,Elementary School,57829
+Very High,Cape Flattery,Neah Bay Junior/ Senior High  School,Neah Bay High School Gym,57832
+Very High,Carbonado,Carbonado Historical School 19,A - Main Building,57837
+Very High,Centerville,Centerville Elementary School,Main Building,51688
+Very High,Centralia,Washington Elementary School,Main Building,57962
+Very High,Clover Park,Tillicum Elementary School,Classroom Building - TL1,50186
+Very High,Evaline,Evaline Elementary School,Main Building,58128
+Very High,Ferndale,Beach Elementary,Main Building,55002
+Very High,Ferndale,Custer Elementary,Main Building,54976
+Very High,Green Mountain,Green Mountain School,Main Building,58305
+Very High,Highline,Southern Heights Elementary School,Building C - Admin/Multi Purpose,55188
+Very High,Hoquiam,Central Elementary School,Main Building,58356
+Very High,Hoquiam,Emerson Elementary School,Main Building,58357
+Very High,Hoquiam,Hoquiam High School,A-Administration,58350
+Very High,Hoquiam,Hoquiam High School,B-Science,58341
+Very High,Hoquiam,Hoquiam High School,H-Gymnasium,58342
+Very High,Index,Index Elementary School,Main Building,55232
+Very High,Kelso,Carrolls Elementary School,Main Building,58401
+Very High,Kelso,Rose Valley Elementary School,Main Building,58396
+Very High,La Conner,La Conner High School,High School Auditorium,55667
+Very High,La Conner,La Conner Middle School (form. Elem.),Old Auditorium/Cafeteria Bldg,55672
+Very High,Longview,R. A. Long High School,Gym,58425
+Very High,Longview,R. A. Long High School,Main Building,58427
+Very High,Longview,R. A. Long High School,Shop Bldg,58428
+Very High,Marysville,Marysville Pilchuck Sr High School,Auditorium - Bldg K,56248
+Very High,Marysville,Marysville Pilchuck Sr High School,Library - Bldg J,56244
+Very High,Marysville,Marysville Pilchuck Sr High School,Pool Building - Bldg L,56233
+Very High,Marysville,Totem Middle School,Cafeteria Gym Building,56224
+Very High,Morton,Morton Elementary School,Main Building,58501
+Very High,Mount Baker,Acme Elementary School,Main Building,56410
+Very High,Mount Baker,Mount Baker Senior High School,Field House,56426
+Very High,Mount Vernon,Lincoln Elementary School,Main Building,50960
+Very High,North Beach,Pacific Beach Elementary School,Gym/Lunchroom,58523
+Very High,Ocean Beach,Ilwaco (Hilltop) Middle School,Auditorium,58642
+Very High,Ocean Beach,Ilwaco (Hilltop) Middle School,Main Building,58643
+Very High,Palisades,Palisades Elementary School,Main Building,52634
+Very High,Pe Ell,Pe Ell School,Main Building,51321
+Very High,Peninsula,Peninsula High School,Main Building (100,58796
+Very High,Puyallup,Puyallup High School,Main Building,58962
+Very High,Puyallup,Spinning Elementary School,Main Building,59065
+Very High,Quilcene,Quilcene High And Elementary School,Elementary,59185
+Very High,Quilcene,Quilcene High And Elementary School,High School,59184
+Very High,Quillayute Valley,Forks Intermediate School,Main Building - 1952 Portion,59203
+Very High,Quillayute Valley,Forks Jr-Sr High School,Main Jr High Building - 1949 Portion,59193
+Very High,Raymond,Raymond Junior Senior High School,Main Building,59223
+Very High,Renton,Hazen Senior High School,Bldg 1 Main Building,56888
+Very High,Renton,Hazen Senior High School,Bldg 1 Music,56888
+Very High,Renton,Lindbergh Senior High School,Main Building - North,56945
+Very High,Renton,Lindbergh Senior High School,Main Building - South,56945
+Very High,Skykomish,Skykomish School,Main Building,57083
+Very High,Snohomish,Cathcart Elementary School,100 Building,57090
+Very High,Snohomish,Central Elementary School,Main Building - Gym,57085
+Very High,Snohomish,Central Elementary School,Main Building,57085
+Very High,South Bend,South Bend Jr/Sr High School,Koplitz Field House,51399
+Very High,South Bend,South Bend Jr/Sr High School,Vocational Building,51398
+Very High,Stanwood-Camano,Stanwood Middle School,Main Building (Bldg 1) Units E and F,51448
+Very High,Tacoma,Fern Hill Elementary School,Main Building,59748
+Very High,Tacoma,Foss High School,Gym-Pool-Cafeteria,59802
+Very High,Tacoma,Foss High School,Main Building - South,59802
+Very High,Tacoma,Oakland High School,Main Building,59698
+Very High,Tacoma,Tacoma School of the Arts-Pacific,SOTA Pacific Ave,59768
+Very High,Tacoma,Willie Stewart Academy,Main Bldg,59727
+Very High,Thorp,Thorp Elementary and Junior Senior High School,Brick Building,53670
+Very High,Vashon Island,Vashon Island High School,Building D - Gymnasium,57368
+Very High,White Salmon Valley,Hulan L. Whitson Elementary School,Main Building,51619
+Very High,Woodland,Woodland Middle School,Gymnasium Building,60193
+Very High,Woodland,Woodland Middle School,Main Building,60193
+Very High,Woodland,Woodland Middle School,Performing Arts,60193
+Very High,Woodland,Woodland Middle School,Shared High School /Middle School,60192
+Very High,Woodland,Woodland Middle School,Vocational Building,60193
+High,Bainbridge Island,Bainbridge High School,500 Building,57410
+High,Bainbridge Island,Commodore Options School,Commodore Options School,57422
+High,Bainbridge Island,Ordway Elementary School,Education Pod,57416
+High,Bainbridge Island,Ordway Elementary School,K-4 Building,57416
+High,Bainbridge Island,Ordway Elementary School,Main Building,57416
+High,Battle Ground,Praire High School,500 Building,50021
+High,Battle Ground,Praire High School,600 Building,50024
+High,Bellingham,Roosevelt Elementary School,Main Building,54493
+High,Bellingham,Whatcom Middle School,Industrial Arts Building,54467
+High,Brinnon,Brinnon Elementary School,Main Building,57777
+High,Burlington-Edison,Burlington-Edison High School,500 Wing,50112
+High,Burlington-Edison,Burlington-Edison High School,Admin/Classroom Building,50118
+High,Camas,Lacamas Heights Elementary School,100 Pod,57802
+High,Camas,Lacamas Heights Elementary School,Multipurpose,57803
+High,Camas,Liberty Middle School,Main Building,57790
+High,Camas,Liberty Middle School,Music Building,57791
+High,Cape Flattery,Clallam Bay High and Elementary School,Big Gym,57827
+High,Cape Flattery,Clallam Bay High and Elementary School,Elementary Building,57824
+High,Cape Flattery,Clallam Bay High and Elementary School,Elementary Gym,57822
+High,Cape Flattery,Clallam Bay High and Elementary School,Shop and Art Building,57825
+High,Cape Flattery,Neah Bay Jr/ Sr High School,Neah Bay High School Classroom Building,57833
+High,Cape Flattery,Neah Bay Jr/ Sr High School,Neah Bay High School Shop Building,57835
+High,Carbonado,Carbonado Historical School 19,B - Community Gym,57838
+High,Cascade,Beaver Valley School,Old Winton School House,51677
+High,Central Kitsap,Cottonwood Elementary School,Gym,57901
+High,Centralia,Centralia Middle School,Classroom Wings,57953
+High,Centralia,Centralia Middle School,Gym Wing,57953
+High,Centralia,Centralia Middle School,Main Building,57953
+High,Centralia,Edison Elementary School,Main Building,57958
+High,Centralia,Oakview Elementary School,Main Building,57970
+High,Chimacum,Chimacum Middle School,Middle School Bldg 100 B,58032
+High,Clover Park,Custer Elementary School,Second Classroom Building,50240
+High,Clover Park,Oakbrook Elementary School,First Classroom Building,50244
+High,Clover Park,Oakbrook Elementary School,Gym / MPR,50245
+High,Concrete,Concrete High School,Main Building,54519
+High,Concrete,Concrete High School,Tech Building,54518
+High,Cosmopolis,Cosmopolis Elementary School,Auditorium Building,58041
+High,Cosmopolis,Cosmopolis Elementary School,Main Building,58038
+High,Cosmopolis,Cosmopolis Elementary School,Multipurpose Building,58037
+High,Coupeville,Coupeville Elementary School,Cedar Pod,54538
+High,Darrington,Darrington Senior High School,Darrington High School,54547
+High,Darrington,Darrington Senior High School,Woodshop,54546
+High,Dayton,Dayton High School,Ag Shop,51839
+High,Dayton,Dayton High School,High School Building,51838
+High,Dayton,Dayton High School,Wood Shop,51840
+High,Dixie,Dixie Elementary School,Main Building,51843
+High,East Valley (Yakima),East Valley Central Middle School,Gymnasium Building,50350
+High,Ephrata,Ephrata High School,1937 Annex (Former Beezley Springs ES),51934
+High,Ephrata,Ephrata High School,Performing Arts Center PAC,51932
+High,Ephrata,Grant Elementary School,Main Building,51927
+High,Everett,Jackson Elementary School,Main Building,54780
+High,Everett,Madison Elementary School,Main Building,54831
+High,Federal Way,Camelot Elementary School,Main Building,50675
+High,Federal Way,Kilo Middle School,Building E Little Theater,50809
+High,Federal Way,Kilo Middle School,Building G,50805
+High,Federal Way,Sacajawea Middle School,100 Building,50706
+High,Federal Way,Sacajawea Middle School,300 Building/Cafeteria,50704
+High,Federal Way,Sacajawea Middle School,400 Building,50702
+High,Federal Way,Sacajawea Middle School,600/700/800 Building,50703
+High,Federal Way,Sacajawea Middle School,900 Building,50699
+High,Federal Way,Sacajawea Middle School,Gym (500) Building,50705
+High,Federal Way,Sacajawea Middle School,Main Office Building,50700
+High,Ferndale,Central Elementary School,Main Building,54971
+High,Fife,Fife High School,Building IV 400 Library,58147
+High,Fife,Fife High School,Building V 500 Main,58144
+High,Fife,Fife High School,Building VIII 800 Shop,58145
+High,Granite Falls,Crossroads High School (form. MS),Main Building,55015
+High,Granite Falls,Granite Falls Middle School (form. HS),Main Building - Gym,55028
+High,Granite Falls,Granite Falls Middle School (form. HS),Main Building (Excl. Gym),55028
+High,Green Mountain,Green Mountain School,Gymnasium,58303
+High,Harrington,Harrington Elementary & High School,Main Building,52039
+High,Highline,Beverly Park @ Glendale Elementary School,Main Building A,55096
+High,Highline,Beverly Park @ Glendale Elementary School,Multi-Purpose Building B,55097
+High,Highline,Chinook Middle School,100 Building,55065
+High,Highline,Chinook Middle School,200 Building,55067
+High,Highline,Chinook Middle School,300 Building - Gymnasium,55063
+High,Highline,Chinook Middle School,400 Building - Cafeteria,55066
+High,Highline,Chinook Middle School,800 Building,55064
+High,Highline,Hilltop Elementary School,100 Building - Bldg A,55177
+High,Highline,Hilltop Elementary School,200 Building - Bldg B,55176
+High,Highline,Hilltop Elementary School,300 Building - Bldg C,55178
+High,Highline,Sylvester Middle School,100 Building,55128
+High,Highline,Sylvester Middle School,200 Building,55131
+High,Highline,Sylvester Middle School,300 Building - Gymnasium/Cafeteria,55134
+High,Highline,Sylvester Middle School,400 Building,55130
+High,Highline,Sylvester Middle School,500 Building - Library,55133
+High,Highline,Sylvester Middle School,600 Building,55129
+High,Highline,Sylvester Middle School,700 Building - Band/Drama,55132
+High,Highline,Woodside Site,Annex,55073
+High,Highline,Woodside Site,Main Building,55072
+High,Hockinson,Hockinson Heights Elementary School (East),Building 800 H,58325
+High,Hoquiam,Hoquiam High School,D-Business Education,58347
+High,Hoquiam,Hoquiam High School,E-Library,58344
+High,Hoquiam,Hoquiam High School,F-Humanities,58345
+High,Hoquiam,Hoquiam High School,G-Little Theater,58346
+High,Hoquiam,Lincoln Elementary School,East Wing,58355
+High,Hoquiam,Lincoln Elementary School,Multipurpose Building,58354
+High,Hoquiam,Lincoln Elementary School,West Wing,58353
+High,Kelso,Coweeman Middle School,Main Building,58393
+High,La Center,La Center Elementary & Middle Schools,Building 300 - ES Main Building,50901
+High,Lake Washington,Rockwell Elementary School,Main Building,55771
+High,Longview,Mint Valley Elementary School,Building A - 1,58459
+High,Longview,Mint Valley Elementary School,Building B - 2,58458
+High,Longview,Mint Valley Elementary School,Building D - 4,58461
+High,Longview,Northlake Elementary School,Main Building,58447
+High,Longview,Olympic Elementary School,Annex Building,58438
+High,Longview,Olympic Elementary School,Main Building,58436
+High,Longview,Olympic Elementary School,Multipurpose Building,58437
+High,Longview,R. A. Long High School,RA Long Annex,58426
+High,Longview,R. A. Long High School,Science Wing,58424
+High,Lopez Island,Lopez Middle High School,Junior Senior High Building,56068
+High,Mabton,Mabton Jr/Sr High School,Main Building,52288
+High,Mabton,Mabton Jr/Sr High School,Shop/Ag Building,52289
+High,Mary M Knight,Mary M. Knight School,Elementary School,50921
+High,Marysville,Cascade Elementary School,Unit A,56103
+High,Marysville,Cascade Elementary School,Unit B,56101
+High,Marysville,Cascade Elementary School,Unit C,56104
+High,Marysville,Cascade Elementary School,Unit D,56102
+High,Marysville,Liberty Elementary School,Main Building,56194
+High,Marysville,Marysville Middle School,Building C - Shop Classrooms,56213
+High,Marysville,Marysville Middle School,Main Building,56214
+High,Marysville,Marysville Pilchuck Sr High School,Arts and Crafts Building - Bldg B,56254
+High,Marysville,Marysville Pilchuck Sr High School,Business Ed and Home Learning - Bldg C,56242
+High,Marysville,Marysville Pilchuck Sr High School,East Building - Bldg H,56240
+High,Marysville,Marysville Pilchuck Sr High School,Gym & New Food Commons - Bldg M,56246
+High,Marysville,Marysville Pilchuck Sr High School,Life Science Building - Bldg F,56253
+High,Marysville,Marysville Pilchuck Sr High School,Mech Plant and Former Cafeteria - Bldg E,56235
+High,Marysville,Marysville Pilchuck Sr High School,Occupational Center - Bldg A,56245
+High,Marysville,Pinewood Elementary School,Bldg E,56134
+High,Marysville,Pinewood Elementary School,Bldg L (Library),56141
+High,Marysville,Pinewood Elementary School,Bldg M (Gym),56139
+High,Marysville,Pinewood Elementary School,Building A,56135
+High,Marysville,Pinewood Elementary School,Building D,56142
+High,Marysville,Shoultes Elementary School,B Building,56264
+High,Marysville,Shoultes Elementary School,Gym Building A,56266
+High,Marysville,Shoultes Elementary School,D Building,56265
+High,Marysville,Shoultes Elementary School,C Building,56267
+High,Marysville,Totem Middle School,Home Economics Building,56232
+High,Marysville,Totem Middle School,Main Building,56231
+High,Marysville,Totem Middle School,School House Cafe,56227
+High,Marysville,Totem Middle School,Science Building,56226
+High,Methow Valley,Methow Valley Elementary School,Main Building,52355
+High,Morton,Morton Junior Senior High School,Gymnasium,58506
+High,Morton,Morton Junior Senior High School,Main Building,58505
+High,Morton,Morton Junior Senior High School,Shop,58507
+High,Napavine,Napavine Elementary School,Main Building,58512
+High,Napavine,Napavine Junior Senior High School,Annex,58513
+High,Napavine,Napavine Junior Senior High School,Main,58514
+High,Naselle-Grays River Valley,Naselle K-12 School,Administration/Misc. Building,51032
+High,Naselle-Grays River Valley,Naselle K-12 School,Elementary,51032
+High,North Beach,North Beach Junior/Senior High School,Main Building,58529
+High,North Beach,Pacific Beach Elementary School,Main Building,58524
+High,North Beach,Pacific Beach Elementary School,Quad Building,58525
+High,North Mason,Belfair Elementary School,Gymnasium Building,58613
+High,North Mason,Belfair Elementary School,Main Building,58614
+High,North River,North River School,Elementary,58630
+High,North River,North River School,Gym Home Ec-Cafeteria,58634
+High,North River,North River School,High School & Admin Building,58631
+High,North River,North River School,Talley Building (Music/Art),58636
+High,Northshore,Canyon Creek Elementary School,Building A - Classroom/Library,56750
+High,Northshore,Canyon Creek Elementary School,Building C - Cafeteria/Gym,56753
+High,Northshore,Crystal Springs Elementary School,Building 1 - Admin,56775
+High,Northshore,Crystal Springs Elementary School,Building 2 - Classrooms/Kitchen,56774
+High,Northshore,Crystal Springs Elementary School,Building 3/4 - Classrooms,56772
+High,Northshore,Crystal Springs Elementary School,Building 5 - Classrooms,56770
+High,Northshore,Shelton View Elementary School,Building A1/10 - Classroom,56732
+High,Northshore,Shelton View Elementary School,Building C - Gym,56727
+High,Oak Harbor,Clover Valley School,Main Building,51299
+High,Oak Harbor,Oak Harbor Middle School,Band Building,51291
+High,Oak Harbor,Oak Harbor Middle School,C Wing - Cafeteria,51290
+High,Oak Harbor,Oak Harbor Middle School,D Wing,51294
+High,Ocean Beach,Ilwaco High School,Ilwaco High School,58649
+High,Ocean Beach,Ilwaco High School,Stadium Complex,58650
+High,Ocean Beach,Long Beach Elementary School,Main Building,58645
+High,Orting,Orting Primary School,Main Building,58761
+High,Palisades,Palisades Elementary School,Grange Hall,52635
+High,Pateros,Pateros K-12 School,Main Building,52831
+High,Pateros,Pateros K-12 School,Metal Shop,52830
+High,Pateros,Pateros K-12 School,Music Building,52832
+High,Peninsula,Discovery Elementary School,Main Building,58839
+High,Peninsula,Gig Harbor High School,Main Building,58821
+High,Peninsula,Gig Harbor High School,Voc-Ed Building,58820
+High,Peninsula,Peninsula High School,500 Building,58793
+High,Peninsula,Peninsula High School,600 Building,58795
+High,Peninsula,Peninsula High School,800 Building - Auditorium Area,58792
+High,Peninsula,Peninsula High School,900 Building - Pool Building,58794
+High,Port Townsend,Port Townsend High School,Gym,58899
+High,Port Townsend,Port Townsend High School,Main Building,58898
+High,Port Townsend,Port Townsend High School,Math Science Annex,58900
+High,Port Townsend,Port Townsend High School,Stuart Building,58901
+High,Puyallup,Maplewood Elementary School,Main Building,59005
+High,Puyallup,Meeker Elementary School,Main Building,59062
+High,Puyallup,Mt View Elementary School,Multipurpose Building,58954
+High,Puyallup,Puyallup High School,Gymnasium and Swimming Pool Building,58961
+High,Puyallup,Puyallup High School,Library Science Building,58959
+High,Puyallup,Spinning Elementary School,East,59065
+High,Puyallup,Waller Road Elementary School,Main Building,59011
+High,Quilcene,Quilcene High And Elementary School,Middle School,59188
+High,Quillayute Valley,Forks Elementary School,Main Building - 1969 Portion,59199
+High,Raymond,Raymond Elementary School,Raymond elementary,59222
+High,Renton,Hazen Senior High School,700 Building,56887
+High,Renton,Hazen Senior High School,Bldg 1 Gym/Pool,56888
+High,Renton,Hazen Senior High School,Gym Addition,56885
+High,Renton,Lindbergh Senior High School,Gym Addition,56944
+High,Renton,Lindbergh Senior High School,Gymnasium,56944
+High,Renton,Renton Senior High School,Cafeteria/Gym,56901
+High,Ridgefield,South Ridge Elementary School,Main Building,59234
+High,Ridgefield,Union Ridge Elementary School,Main Building,59224
+High,Riverside,Chattaroy Elementary School,35 Wing Building,53052
+High,Shaw Island,Shaw Island School,Admin/RR Building,57007
+High,Shaw Island,Shaw Island School,Primary Classroom Building,57009
+High,Skamania,Skamania Elementary School,Main Building,59377
+High,Snohomish,Cathcart Elementary School,200 Building,57091
+High,Snohomish,Cathcart Elementary School,300 Building,57089
+High,Snohomish,Cathcart Elementary School,400 Building,57088
+High,Snohomish,Cathcart Elementary School,500 Building,57092
+High,Snohomish,Cathcart Elementary School,600 Building,57094
+High,Snohomish,Cathcart Elementary School,700 Building,57093
+High,Snohomish,Emerson Elementary School,Main Building,57132
+High,South Bend,South Bend Jr/Sr High School,Main Building High School,51397
+High,South Whidbey,South Whidbey Grades 5 & 6,A- Classrooms,57247
+High,South Whidbey,South Whidbey Grades 5 & 6,C - Classrooms/Admin,57245
+High,South Whidbey,South Whidbey Grades 5 & 6,D - WIA Office/Classrooms,57249
+High,South Whidbey,South Whidbey Grades 5 & 6,E - Classrooms,57250
+High,South Whidbey,South Whidbey Grades 5 & 6,F - Multipurpose,57248
+High,Spokane,Adams Elementary School,Gym and Cafeteria Building,53538
+High,Spokane,Adams Elementary School,Main Building,53538
+High,Spokane,Bancroft (The Community School),Main Building,53586
+High,Spokane,Bryant Center,Main Building,53558
+High,Spokane,Havermale (Montessori),Main Building 1928 Gym,53500
+High,Spokane,Havermale (Montessori),Main Building 1928 and 1940 Areas,53500
+High,Spokane,Havermale (Montessori),Main Building 1965 Areas,53500
+High,Spokane,Libby Center,Main Building,53496
+High,Spokane,Madison Elementary School,Main Building,53579
+High,Stanwood-Camano,Stanwood Elementary School,Main Building Unit C 1981,51456
+High,Stanwood-Camano,Stanwood Middle School,Building 3 - Music,51449
+High,Stanwood-Camano,Twin City Elementary School,Main Building,51411
+High,Stevenson-Carson,Carson Elementary School,Main Building,59495
+High,Stevenson-Carson,Stevenson High School,Main Building,59488
+High,Stevenson-Carson,Stevenson High School,Vocational Building,59491
+High,Stevenson-Carson,Wind River Education Center,Main Building,59499
+High,Sunnyside,Outlook Elementary School,Outlook Elementary Main Building,53661
+High,Tacoma,DeLong Elementary School,Original Bldg-Bldg A,59597
+High,Tacoma,Foss High School,Main Building - North,59802
+High,Tacoma,Mann Elementary School,Main Building,59664
+High,Tacoma,Point Defiance Elementary School,Main Building,59730
+High,Tacoma,Reed Elementary School,Main Building,59628
+High,Tacoma,Stanley Elementary School,Gym Bldg,59635
+High,Taholah,Taholah School,Main Building,59810
+High,Toledo,Toledo Elementary School,Main Building,59838
+High,Toledo,Toledo Middle School,Classroom Bldg. (Bldg #2),59842
+High,Toledo,Toledo Middle School,Main Building (Bldg. #1),59844
+High,Touchet,Touchet Elementary and High School,Elementary - Main Building,53697
+High,Touchet,Touchet Elementary and High School,Secondary Facility,53695
+High,University Place,Curtis Senior High School,500 Building,59969
+High,University Place,Sunset Primary School,Main Building,59982
+High,Vashon Island,Vashon Island High School,Building K - Annex,57366
+High,Wahkiakum,Julius A. Wendt ES/John C. Thomas MS,J A Wendt Elementary School,53717
+High,Washougal,Hathaway Elementary School,Main Building,60133
+High,Washtucna,Washtucna Elementary High School,Ag Shop/ Music Room,53815
+High,Washtucna,Washtucna Elementary High School,Main Building,53817
+High,White Salmon Valley,Columbia High School,C Court - Gym,51632
+High,White Salmon Valley,Columbia High School,Libray,51631
+High,White Salmon Valley,Columbia High School,Metal /Wood Shop,51628
+High,White Salmon Valley,Wayne M. Henkle Middle School,Middle School,51638
+High,Willapa Valley,Willapa Elementary School,Main Building,60150
+High,Wilson Creek,Wilson Creek K-12,Main - Gym & Classrooms,53893
+High,Woodland,Columbia Elementary School,Main Building,60181
+High,Yakima,Adams Elementary School,8 Plex Bldg D,53950
+High,Yakima,Adams Elementary School,BLDG C-1,53950
+High,Yakima,Adams Elementary School,Old Gym C,53953
+High,Yakima,Hoover Elementary School,Main Building - Area A,54023
+High,Yakima,Hoover Elementary School,Main Building - Area B,54023
+High,Yakima,Nob Hill Elementary School,Main Building,53961
+High,Yakima,Wilson Middle School,Main Building,53968
+High,Yakima,Wilson Middle School,Science Building,53969
+Moderate,Aberdeen,A.J. West Elementary School,1952 Building,57384
+Moderate,Aberdeen,A.J. West Elementary School,Annex Building,57385
+Moderate,Aberdeen,Central Park Elementary School,Annex Building,57391
+Moderate,Aberdeen,Central Park Elementary School,Main Building,57392
+Moderate,Bainbridge Island,Commodore Options School,Art and Classrooms,57422
+Moderate,Bethel,Rocky Ridge Elementary School,Main Building,57514
+Moderate,Bickleton,Bickleton Elementary and High School,Bldg B - Vocational/Transportation,51647
+Moderate,Camas,Dorothy Fox Elementary School,Main Building,57808
+Moderate,Camas,Skyridge Middle School ,Main Building,57782
+Moderate,Central Kitsap,Emerald Heights Elementary,Main,57877
+Moderate,Chimacum,Chimacum High School,High School 100 Bldg A - North Wing,58034
+Moderate,Chimacum,Chimacum High School,High School 100 Bldg A - South Wing,58034
+Moderate,Concrete,Concrete K-6 School,Gym,54520
+Moderate,Concrete,Concrete K-6 School,Main Building,54521
+Moderate,Cosmopolis,Cosmopolis Elementary School,Gymnasium Building,58040
+Moderate,Coupeville,Coupeville Elementary School,Main,54540
+Moderate,Coupeville,Coupeville Elementary School,Multipurpose,54539
+Moderate,Coupeville,Coupeville High School,Annex,54534
+Moderate,Dayton,Dayton High School,Gymnasium,51841
+Moderate,Dayton,Dayton K-8 School,Elementary and Middle School Building,51842
+Moderate,East Valley (Yakima),East Valley Elementary School,Main Building,50345
+Moderate,Ephrata,Parkway School,Main Building,51938
+Moderate,Federal Way,Brigadoon Elementary School,Main Office Building - E,50844
+Moderate,Federal Way,Brigadoon Elementary School,Multipurpose Building - C,50838
+Moderate,Federal Way,Kilo Middle School,Building A Main Office,50808
+Moderate,Federal Way,Kilo Middle School,Building B,50803
+Moderate,Federal Way,Kilo Middle School,Building C,50806
+Moderate,Federal Way,Kilo Middle School,Building F1-F4 and Library,50811
+Moderate,Federal Way,Kilo Middle School,Building F5-F8,50807
+Moderate,Federal Way,Kilo Middle School,Building H Gymnasium,50810
+Moderate,Federal Way,Kilo Middle School,Building I Cafeteria,50802
+Moderate,Federal Way,Kilo Middle School,Building J,50812
+Moderate,Fife,Fife High School,Building IX 900 Science,58141
+Moderate,Fife,Fife High School,Building VI 600 Gyms,58143
+Moderate,Glenwood,Glenwood School,Main Building,51977
+Moderate,Grand Coulee Dam,Lake Roosevelt K-12,CTE Building,51986
+Moderate,Grand Coulee Dam,Lake Roosevelt K-12,Wood Shop,51988
+Moderate,Granite Falls,Granite Falls Middle School (form. HS),Multi-Purpose Building,55030
+Moderate,Granite Falls,Mountain Way Elementary School,Main Building,55012
+Moderate,Highline,Southern Heights Elementary School,Building A,55185
+Moderate,Highline,Southern Heights Elementary School,Building B,55186
+Moderate,Hockinson,Hockinson Heights Elementary School (East),Building 100 A,58331
+Moderate,Hockinson,Hockinson Heights Elementary School (East),Building 200 C,58332
+Moderate,Hockinson,Hockinson Heights Elementary School (East),Building 300 D,58328
+Moderate,Hockinson,Hockinson Heights Elementary School (East),Building 400 B,58326
+Moderate,Hockinson,Hockinson Heights Elementary School (East),Building 500 E,58327
+Moderate,Hockinson,Hockinson Heights Elementary School (East),Building 600 F,58329
+Moderate,Hoquiam,Lincoln Elementary School,Administrative and Library Building,58352
+Moderate,La Conner,La Conner High School,High School Main Building,55668
+Moderate,Lake Washington,Einstein Elementary School,Main Building,55836
+Moderate,Longview,Robert Gray Elementary School,Main Building,58432
+Moderate,Lopez Island,Lopez Elementary School,Elementary,56065
+Moderate,Lopez Island,Lopez Middle High School,Gym/Tech Building,56067
+Moderate,Marysville,Marysville Middle School,Building B,56212
+Moderate,Mount Baker,Mount Baker Senior High School,800 Building (Former Deming Elem.),56430
+Moderate,Naches Valley,Naches Valley High School,Gym Building,52476
+Moderate,Naches Valley,Naches Valley High School,Main Building,52476
+Moderate,Naches Valley,Naches Valley High School,Vocational Building,52475
+Moderate,Oak Harbor,Oak Harbor Middle School,C Wing,51290
+Moderate,Oak Harbor,Oak Harbor Middle School,Gym,51293
+Moderate,Oak Harbor,Oak Harbor Middle School,Main Building A,51289
+Moderate,Ocean Beach,Kaino Gym,Kaino Gym,58644
+Moderate,Ocosta,Ocosta Junior Senior High School,Junior Senior High,58651
+Moderate,Oroville,Oroville Elementary School,Main Building,52577
+Moderate,Paterson,Paterson Elementary School,Main Building,52838
+Moderate,Pe Ell,Pe Ell School,Fitness Center,51320
+Moderate,Peninsula,Peninsula High School,700 Building - Voc Ag,58791
+Moderate,Port Angeles,Roosevelt Elementary School,Main Building,58869
+Moderate,Puyallup,Mt View Elementary School,Main Building,58954
+Moderate,Puyallup,Wildwood Elementary,Main Building,58921
+Moderate,Snohomish,Emerson Elementary School,Annex,57133
+Moderate,Stanwood-Camano,Stanwood Elementary School,Main Building Unit C 1966,51456
+Moderate,Stanwood-Camano,Stanwood Elementary School,Main Building Units A,51456
+Moderate,Stanwood-Camano,Stanwood Middle School,Main Building (Building 1) Unit D,51448
+Moderate,Stanwood-Camano,Stanwood Middle School,Main Building (Building 1) Unit G,51448
+Moderate,Tacoma,DeLong Elementary School,First Bldg-Bldg B,59598
+Moderate,Tacoma,Franklin Elementary School,Main Building,59589
+Moderate,Tacoma,Larchmont Elementary School,Original Building,59804
+Moderate,Tacoma,Lister Elementary School,Main Building,59790
+Moderate,Tacoma,Roosevelt Elementary School,Main Bldg,59688
+Moderate,Taholah,Taholah School,Covered Court,59808
+Moderate,Touchet,Touchet Elementary and High School,CTE Building,53696
+Moderate,West Valley (Yakima),West Valley Junior High School,WVJH (Gym Building),51547
+Moderate,West Valley (Yakima),West Valley Junior High School,WVJH (Main Building),51546
+Moderate,White Pass,White Pass Elementary School,Main Building,51565
+Moderate,Woodland,Columbia Elementary School,1991 Addition,60181
+Moderate,Yakima,Hoover Elementary School,Area D - Annex Building,54025
+Moderate,Yakima,Hoover Elementary School,Classrooms - Area F,54021
+Moderate,Yakima,Robertson Elementary School,"100 Building - Bldg ""B""",53918
+Moderate,Yakima,Robertson Elementary School,"200 Building - Bldg ""C""",53917
+Moderate,Yakima,Robertson Elementary School,"300 Building - Bldg ""D""",53919
+Moderate,Yakima,Robertson Elementary School,"400 Building - Bldg ""E""",53930
+Moderate,Yakima,Robertson Elementary School,"500 Building - Bldg ""G""",53920
+Lower,Aberdeen,J. M. Weatherwax High School,Main Building,57378
+Lower,Bainbridge Island,Bainbridge High School,300 Building,57407
+Lower,Bainbridge Island,Commodore Options School,Eagle Harbor HS,57422
+Lower,Bainbridge Island,Woodward Middle School,2-Story Classroom Wing,57424
+Lower,Bainbridge Island,Woodward Middle School,Gym,57424
+Lower,Bainbridge Island,Woodward Middle School,Main Building,57424
+Lower,Battle Ground,Maple Grove K-8,Gym,50043
+Lower,Battle Ground,Maple Grove K-8,Main Building,50044
+Lower,Battle Ground,Praire High School,400 Building,50013
+Lower,Battle Ground,River Homelink,Main Building,50050
+Lower,Bellingham,Fairhaven Middle School,Main Building - Classrooms,54454
+Lower,Bellingham,Fairhaven Middle School,West Wing,54455
+Lower,Bellingham,Whatcom Middle School,Music Building,54468
+Lower,Bethel,Camas Prairie Elementary School,Main Building,57577
+Lower,Bickleton,Bickleton Elementary and High School,Main Building,51649
+Lower,Burlington-Edison,Edison Elementary School,Original Building,50089
+Lower,Cape Flattery,Neah Bay Junior/ Senior High School,Neah Bay Middle School & Gym,57834
+Lower,Carbonado,Carbonado Historical School 19,Computer Lab and Library,57840
+Lower,Cascade,Beaver Valley School,Main Building,51675
+Lower,Central Kitsap,Emerald Heights Elementary,Gym,57877
+Lower,Central Kitsap,Green Mountain Elementary,Gymnasium,57875
+Lower,Central Kitsap,Green Mountain Elementary,Main,57875
+Lower,Central Kitsap,Pinecrest Elementary,Gymnasium,57854
+Lower,Central Kitsap,Pinecrest Elementary,Main,57854
+Lower,Central Kitsap,Ridgetop Junior High,Main,57855
+Lower,Central Kitsap,Silver Ridge Elementary,Main,57857
+Lower,Central Kitsap,Woodlands Elementary,Main,57903
+Lower,Chimacum,Chimacum Middle School,Middle School Bldg 200,58031
+Lower,Clover Park,Custer Elementary School,Library,50243
+Lower,Coupeville,Coupeville High School,Gymnasium,54537
+Lower,Coupeville,Coupeville Middle School,Middle and High School Building,54544
+Lower,Creston,Creston Junior Senior High School,Creston K-12 School Building,51821
+Lower,Darrington,Darrington Elementary School,Main Elementary School,54550
+Lower,Dieringer,North Tapps Middle School,Main Building,58058
+Lower,East Valley (Yakima),East Valley Central Middle School,6th Grade Building,50349
+Lower,East Valley (Yakima),East Valley Central Middle School,Computer Lab Building,50351
+Lower,Federal Way,Kilo Middle School,Building D,50804
+Lower,Federal Way,Nautilus K-8 School,Multipurpose Rm Bldg,50826
+Lower,Federal Way,Nautilus K-8 School,Rooms 15-20 Bldg,50827
+Lower,Federal Way,Nautilus K-8 School,Rooms 1-6 Bldg,50828
+Lower,Federal Way,Nautilus K-8 School,Rooms 22-25 Bldg,50829
+Lower,Federal Way,Nautilus K-8 School,Rooms 7-14 Bldg,50830
+Lower,Fife,Columbia Junior High School,Main Building,58132
+Lower,Fife,Fife High School,Building VII 700 Cafeteria,58142
+Lower,Highline,Hilltop Elementary School,400 Building - Bldg D,55175
+Lower,Highline,Seahurst Elementary School,Main Building,55100
+Lower,Index,Index Elementary School,Enclosed Covered Play,55233
+Lower,Lake Washington,Dickinson Elementary School,Main Building,55935
+Lower,Lake Washington,Emerson Campus,Emerson,55920
+Lower,Lake Washington,Wilder Elementary School,Main Building,55846
+Lower,Longview,Mt. Solo Middle School,Main Building,58466
+Lower,Mansfield,Mansfield Elem and High School,Main Building,52291
+Lower,Mary M Knight,Mary M. Knight School,High School Building,50924
+Lower,Marysville,Marysville Pilchuck Senior High School,Physical Science Building - Bldg S,56251
+Lower,Marysville,Marysville Pilchuck Senior High School,South Building - Bldg N,56247
+Lower,Marysville,Quil Ceda Tulalip Elementary School,Main Building,56204
+Lower,Methow Valley,Liberty Bell Junior Senior High School,Main Building,52358
+Lower,Morton,Morton Elementary School,Gymnasium,58504
+Lower,Mount Baker,Mount Baker Jr High School,200 Building - JHS,56405
+Lower,Mount Baker,Mount Baker Jr High School,Pro-Rate Portion of Commons - Bldgg 100,56404
+Lower,Mount Baker,Mount Baker Sr High School,300 North,56443
+Lower,Mount Baker,Mount Baker Sr High School,300 South,56436
+Lower,Mount Baker,Mount Baker Sr High School,700 Building,56425
+Lower,Mount Baker,Mount Baker Sr High School,Pro-rate Portion of Commons - Bldg 100,56440
+Lower,Naches Valley,Naches Valley Middle School,Main Building,52487
+Lower,Newport,Newport High School,Main Building,52500
+Lower,Oak Harbor,Oak Harbor Middle School,Building B,51288
+Lower,Ocean Beach,Ocean Park Elementary School,Main Building,58647
+Lower,Ocosta,Ocosta Elementary School,Primary Addition,58652
+Lower,Olympia,Boston Harbor Elementary School,Main Building,58698
+Lower,Olympia,Thurgood Marshall Middle School,Gym Building,58671
+Lower,Olympia,Thurgood Marshall Middle School,Main Building,58672
+Lower,Pasco,Edwin Markham Elementary School,Main Building,52770
+Lower,Pateros,Pateros K-12 School,Wood Shop,52829
+Lower,Peninsula,Gig Harbor High School,Two-Story Building,58819
+Lower,Peninsula,Minter Creek Elementary School,Main Building,58834
+Lower,Peninsula,Voyager Elementary School,Main Building,58817
+Lower,Port Townsend,Blue Heron Middle School,Main Building,58917
+Lower,Riverside,Chattaroy Elementary School,Main Building,53054
+Lower,Royal,Red Rock Elementary School,Main Building,53072
+Lower,Royal,Royal High School,B Main Building,53076
+Lower,Royal,Royal Middle School,Main Building,53080
+Lower,Shaw Island,Shaw Island School,Intermediate Classroom Building,57008
+Lower,South Whidbey,South Whidbey Elementary School,Main Building,57240
+Lower,Spokane,Audubon Elementary School,Main Building,53564
+Lower,Tacoma,Edison Elementary School,Main Building,59747
+Lower,Tacoma,Foss High School,Main Building - 2003 Addition,59802
+Lower,Tacoma,Manitou Park Elementary School,Main Building,59601
+Lower,Tacoma,Northeast Tacoma Elementary School,Gym Bldg-Bldg 2,59627
+Lower,Tacoma,Northeast Tacoma Elementary School,Main Bldg-Bldg 1,59626
+Lower,Tacoma,Sheridan Elementary School,Main Building,59723
+Lower,Tacoma,Stanley Elementary School,First Bldg,59636
+Lower,Thorp,Thorp Elementary and Jr-Sr High School,Thorp Elem/Jr/Sr High School,53671
+Lower,Tonasket,Tonasket Elementary School,Tonasket Elementary,53674
+Lower,Tonasket,Tonasket Middle-High School,High School/Middle School,53673
+Lower,Tumwater,Black Lake Elementary School,Building A,59890
+Lower,Tumwater,Black Lake Elementary School,Building B,59893
+Lower,Tumwater,Black Lake Elementary School,Building C,59892
+Lower,Warden,Warden K-12,Cafeteria,53814
+Lower,Warden,Warden K-12,Middle School/High School,53812
+Lower,White Pass,White Pass Junior Senior High School,Main Building,51568
+Lower,White River,Mountain Meadow Elementary School,Main Building,51616
+Lower,Wilson Creek,Wilson Creek K-12,Business Building/Home Ec.,53895
+Lower,Wilson Creek,Wilson Creek K-12,Gym/Commons,53894
+Lower,Wilson Creek,Wilson Creek K-12,Vo-Ag / Science Bldg,53892

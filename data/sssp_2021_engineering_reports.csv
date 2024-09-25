@@ -1,0 +1,339 @@
+District Name,ICOS Site ID,Site Name,ICOS Bldg ID.No.,Building Name,Latitude,Longitude,FEMA Const. Type,Year Built,Last Renovation,Gross Area (SF),No. of Floors,"Structural Drawings Avail? (Yes, No, Partial)",Has Had Structural Upgrade?,Year of Structural Upgrade,Tsunami Risk,Vs30 Measured Site Class,Vs30 (m/s),"Sds, BSE-1N (g)",ASCE 41 Tier 1 Assessed By
+Aberdeen,21443,A.J. West Elementary School,57384,1952 Building,46.972,-123.838,W2,1952,1952,"22,630",2,P,Yes,1994,YES,E,128,1.32,
+Aberdeen,21443,A.J. West Elementary School,57385,Annex Building,46.972,-123.838,W2,1966,1994,"16,400",1,P,Yes,1994,YES,E,128,1.32,WSP
+Aberdeen,21445,Central Park Elementary School,57391,Annex Building,46.968,-123.698,RM1,1966,1995,"5,895",1,P,No,,NO,D,339,0.99,
+Aberdeen,21445,Central Park Elementary School,57392,Main Building,46.968,-123.698,W2,1956,1995,"21,446",1,P,No,,NO,D,339,0.99,WSP
+Aberdeen,21446,"Hopkins Building (HarborHigh School)",57394,Hopkins Building,46.972,-123.832,C2a,1956,,"53,604",1,Y,No,,YES,E,140,1.32,
+Aberdeen,21441,J. M. Weatherwax High School,57378,1964 Gymnasium Building,46.98,-123.818,RM1,1964,,"27,409",3,N,No,,YES,E,109,1.32,WSP
+Aberdeen,21441,J. M. Weatherwax High School,57378,Main Building,46.98,-123.818,S2a,1964,,"173,011",3,N,No,,YES,E,109,1.32,
+Aberdeen,21448,McDermoth Elementary School,57397,Main Building,46.977,-123.823,W2,1926,1998,"61,867",3,P,Yes,1998,YES,D,234,1.01,WSP
+Anacortes,20899,Mount Erie Elementary School,54084,Main Building,48.487,-122.619,RM1,1955,1991,"41,796",1,Y,No,,NO,C,522.5,0.92,
+Bainbridge Island,21451,Bainbridge High School,57407,300 Building,47.637,-122.525,RM1,1981,,"64,216",2,Y,Yes,1998,NO,D,295,0.98,WSP
+Bainbridge Island,21451,Bainbridge High School,57410,500 Building,47.637,-122.525,PC1,1981,,"32,818",2,Y,No,,NO,D,295,0.98,
+Bainbridge Island,21454,Commodore Options School,57422,Art & Classrooms,47.637,-122.522,RM1,1970,,"17,239",1,Y,No,,NO,D,295,0.98,WSP
+Bainbridge Island,21454,Commodore Options School,57422,Commodore Options School,47.637,-122.522,W2,1948,,"25,917",1,Y,No,,NO,D,295,0.98,
+Bainbridge Island,21454,Commodore Options School,57422,Eagle Harbor HS,47.637,-122.522,RM1,1981,,"12,906",1,Y,No,,NO,D,295,0.97,WSP
+Bainbridge Island,21453,Ordway Elementary School,57416,Education Pod,47.64,-122.522,S2a,1978,,"12,188",1,Y,No,,NO,D,295,0.97,
+Bainbridge Island,21453,Ordway Elementary School,57416,K-4 Building,47.64,-122.522,S2a,1978,,"15,235",1,Y,No,,NO,D,295,0.97,WSP
+Bainbridge Island,21453,Ordway Elementary School,57416,Main Building,47.64,-122.522,S2a,1978,,"16,105",1,Y,No,,NO,D,295,0.97,
+Bainbridge Island,21456,Woodward Middle School,57424,2-Story Classroom Wing,47.645,-122.529,W2,1994,,"56,073",2,Y,No,,NO,C,524,1.16,WSP
+Bainbridge Island,21456,Woodward Middle School,57424,Gym,47.645,-122.529,RM1,1994,,"15,000",1,Y,No,,NO,C,524,1.16,
+Bainbridge Island,21456,Woodward Middle School,57424,Main Building,47.645,-122.529,RM1,1994,,"30,201",1,Y,No,,NO,C,524,1.16,WSP
+Bellingham,20974,Fairhaven Middle School,54454,Main Building - Classrooms,48.715,-122.503,W2,1937,1994,"62,417",2,Y,Yes,1994,NO,C,525,0.81,
+Bellingham,20974,Fairhaven Middle School,54455,West Wing,48.715,-122.503,W2,1937,1994,"11,035",2,Y,Yes,1994,NO,C,525,0.81,RM
+Bellingham,20985,Roosevelt Elementary School,54493,Main Building,48.768,-122.442,RM1,1972,,"43,061",1,Y,No,,NO,D,274.2,0.73,
+Bellingham,20980,Whatcom Middle School,54467,Industrial Arts Building,48.759,-122.48,RM1,1978,,"3,696",1,Y,No,,NO,D,262,0.73,RM
+Bellingham,20980,Whatcom Middle School,54468,Music Building,48.759,-122.48,W2,1971,,"6,087",1,Y,No,,NO,D,262,0.73,
+Bethel,21473,Camas Prairie Elementary School,57577,Main Building,47.097,-122.427,W2,1987,,"44,728",1,Y,No,,NO,C,484,1.04,WSP
+Bethel,21465,Rocky Ridge Elementary School,57514,Main Building,47.02,-122.346,W2,1985,,"43,864",1,Y,No,,NO,C,502,1,
+Brinnon,21495,Brinnon Elementary School,57777,Main Building,47.697,-122.903,W2,1952,,"13,737",1,Y,No,,NO,C,403,1.16,RM
+Burlington-Edison,20018,Burlington-Edison High School,50112,500 Wing,48.478,-122.337,RM1,1974,,"9,171",1,Y,No,,NO,D,189,0.76,
+Burlington-Edison,20018,Burlington-Edison High School,50118,Admin/Classroom Building,48.478,-122.337,RM1,1974,,"13,296",1,Y,No,,NO,D,189,0.76,RM
+Burlington-Edison,20018,Burlington-Edison High School,50119,Art/Tiger TUB Building,48.478,-122.337,C2a,1958,,"15,665",1,Y,No,,NO,D,189,0.76,
+Burlington-Edison,20018,Burlington-Edison High School,50117,Cafeteria & 400 Wing,48.478,-122.337,RM1,1970,,"18,668",1,Y,No,,NO,D,189,0.76,RM
+Burlington-Edison,20018,Burlington-Edison High School,50110,CTE,48.478,-122.337,RM1,1964,,"5,003",1,Y,No,,NO,D,189,0.76,
+Burlington-Edison,20018,Burlington-Edison High School,50109,Fieldhouse 1953 & 1975,48.478,-122.337,RM1,1953,1975,"35,093",1,Y,No,,NO,D,189,0.76,RM
+Burlington-Edison,20018,Burlington-Edison High School,50109,Fieldhouse 1984 Addition,48.478,-122.337,RM1,1984,,"15,040",1,Y,No,,NO,D,189,0.76,
+Burlington-Edison,20016,West View Elementary School,50095,Main Building,48.477,-122.341,W2,1950,,"43,537",1,Y,No,,NO,D,189,0.76,RM
+Camas,21503,Dorothy Fox Elementary School,57808,Main Building,45.599,-122.43,RM1,1982,2011,"38,124",1,Y,No,,NO,C,397.8,0.66,
+Cascade,20302,Beaver Valley School,51675,Main Building,47.77,-120.665,W2,2000,,"3,141",1,Y,No,,NO,C,386,0.48,RM
+Cascade,20302,Beaver Valley School,51677,Old Winton School House,47.77,-120.665,W2,1916,,750,1,N,No,,NO,C,386,0.48,
+Central Kitsap,21520,Cottonwood Elementary School,57901,Main,47.643,-122.646,PC1a,1976,2003,"54,150",1,Y,Yes,1990,NO,C,364.2,0.99,RM
+Central Kitsap,21517,Emerald Heights Elementary,57877,Main,47.675,-122.665,"RM1, S2a",1993,,"56,000",1,Y,No,,NO,C,366.1,1.15,
+Central Kitsap,21516,Green Mountain Elementary,57875,Main,47.599,-122.82,"RM1, S2a",1992,,"43,360",1,Y,No,,NO,C,592.2,1.24,RM
+Central Kitsap,21512,Pinecrest Elementary,57854,Main Bldg,47.613,-122.636,"RM1, S2a",1998,,"56,181",2,Y,No,,NO,C,384,1.24,
+Central Kitsap,21521,Woodlands Elementary,57903,Main,47.63,-122.648,W2,1981,,"54,243",1,Y,No,,NO,D,295,1.21,RM
+Centralia,21531,Centralia Middle School,57953,Classroom Wings,46.726,-122.982,W2,1958,1987,"40,712",1,P,No,,NO,C,437,0.98,
+Centralia,21531,Centralia Middle School,57953,Gym Wing,46.726,-122.982,W2,1958,1987,"20,356",1,P,No,,NO,C,437,0.98,WRK
+Centralia,21531,Centralia Middle School,57953,Main Building,46.726,-122.982,W2,1958,1987,"27,436",1,P,No,,NO,C,437,0.98,
+Centralia,21534,Oakview Elementary School,57970,Main Building,46.743,-122.952,PC1,1928,1978,"38,046",1,P,No,,NO,C,415,0.99,WRK
+Centralia,21533,Washington Elementary School,57962,Main Building,46.709,-122.954,RM1,1950,,"51,063",1,P,No,,NO,D,305,0.82,
+Chimacum,21545,Chimacum High School,58034,"High School 100 Bldg A -North Wing",48.012,-122.778,RM1,1980,1999,"38,586",1,Y,Yes,1999,NO,D,332,0.88,WSP
+Chimacum,21545,Chimacum High School,58034,"High School 100 Bldg A -South Wing",48.012,-122.778,RM1,1980,1999,"38,600",1,Y,Yes,1999,NO,D,332,0.88,
+Chimacum,21544,Chimacum Middle School,58032,Middle School Bldg 100 B,48.012,-122.778,RM1,1959,1965,"21,558",1,Y,Yes,1999,NO,D,332,0.88,WSP
+Chimacum,21544,Chimacum Middle School,58031,Middle School Bldg 200,48.012,-122.778,RM1,1991,1999,"38,330",1,Y,No,,NO,D,332,0.88,
+Clover Park,20040,Custer Elementary School,50243,Library - CU2,47.181,-122.54,W2,1992,2012,"3,264",1,P,No,,NO,D,331,0.91,DCI
+Clover Park,20040,Custer Elementary School,50240,"Second Classroom Building -CU1",47.181,-122.54,W2,1952,1992,"40,304",1,P,No,,NO,D,331,0.91,
+Clover Park,20041,Oakbrook Elementary School,50244,First Classroom Building - OB1,47.186,-122.549,RM1,1970,2002,"37,881",1,P,No,,NO,C,454.8,1.09,DCI
+Clover Park,20041,Oakbrook Elementary School,50245,Gym / MPR - OB2,47.186,-122.549,RM1,1970,,"11,760",1,P,No,,NO,C,454.8,1.09,
+Clover Park,20028,Tillicum Elementary School,50186,Classroom Building - TL1,47.125,-122.553,URM,1944,1997,"37,468",1,P,No,,NO,C,490.9,1.08,DCI
+Ephrata,20385,Ephrata High School,51934,"1937 Annex(Former Beezley Springs ES)",47.326,-119.551,URM,1937,,"23,619",1,P,No,,NO,D,321,0.39,DCI
+Ephrata,20385,Ephrata High School,51932,Performing Arts Center PAC,47.326,-119.551,URM,1951,,"32,125",1,P,No,,NO,D,321,0.39,
+Ephrata,20384,Grant Elementary School,51927,Main Building,47.326,-119.555,RM1,1957,1985,"31,612",1,Y,No,,NO,D,321,0.39,DCI
+Ephrata,20386,Parkway School,51938,Main Building,47.313,-119.561,W2,1947,1999,"27,288",1,Y,No,,NO,C,405,0.35,
+Everett,21045,Jackson Elementary School,54780,Main Building,47.968,-122.218,W2,1949,1993,"51,652",2,Y,Yes,1992,NO,D,344,0.85,RM
+Everett,21053,Madison Elementary School,54831,Main Building,47.942,-122.224,W2,1947,1993,"41,835",1,Y,Yes,1993,NO,C,566.1,1.06,
+Federal Way,20142,Brigadoon Elementary School,50844,Main Office Building - E,47.3,-122.378,W2,1969,1990,"3,706",1,Y,No,,NO,C,435,1.08,WSP
+Federal Way,20142,Brigadoon Elementary School,50838,Multipurpose Building - C,47.3,-122.378,W2,1970,,"4,823",1,Y,No,,NO,C,435,1.08,
+Federal Way,20142,Brigadoon Elementary School,50843,Rooms 20-25 & Kitchen - B,47.3,-122.378,W2,1969,1990,"6,817",1,Y,No,,NO,C,435,1.08,WSP
+Federal Way,20142,Brigadoon Elementary School,50839,Rooms 30-35 - F,47.3,-122.378,W2,1969,1990,"6,777",1,Y,No,,NO,C,435,1.08,
+Federal Way,20142,Brigadoon Elementary School,50841,Rooms 40-43 & Library - D,47.3,-122.378,W2,1969,1990,"8,596",1,Y,No,,NO,C,435,1.08,WSP
+Federal Way,20142,Brigadoon Elementary School,50842,Rooms 50-58 - A,47.3,-122.378,W2,1969,1990,"8,627",1,Y,No,,NO,C,435,1.08,
+Federal Way,20116,Camelot Elementary School,50675,Main Building,47.335,-122.284,W2,1964,1989,"41,111",1,Y,No,,NO,C,412,1.06,WSP
+Federal Way,20137,Kilo Middle School,50805,Building A Main Office,47.327,-122.278,W2,1970,1994,"6,114",1,Y,No,,NO,C,492,1.05,
+Federal Way,20137,Kilo Middle School,50803,Building B,47.327,-122.278,W2,1970,1993,"12,480",2,Y,No,,NO,C,492,1.05,WSP
+Federal Way,20137,Kilo Middle School,50807,Building C,47.327,-122.278,W2,1970,1993,"11,160",1,Y,No,,NO,C,492,1.05,
+Federal Way,20137,Kilo Middle School,50808,Building D,47.327,-122.278,W2,1970,1993,"5,280",1,Y,No,,NO,C,492,1.05,WSP
+Federal Way,20137,Kilo Middle School,50811,Building E Little Theater,47.327,-122.278,W2,1970,,"2,316",1,Y,No,,NO,C,492,1.05,
+Federal Way,20137,Kilo Middle School,50806,Building F1-F4 & Library,47.327,-122.278,W2,1970,1993,"9,600",1,Y,No,,NO,C,492,1.05,WSP
+Federal Way,20137,Kilo Middle School,50804,Building F5-F8,47.327,-122.278,W2,1970,1993,"4,320",1,Y,No,,NO,C,492,1.05,
+Federal Way,20137,Kilo Middle School,50802,Building G,47.327,-122.278,W2,1970,1993,"6,720",1,Y,No,,NO,C,492,1.05,WSP
+Federal Way,20137,Kilo Middle School,50812,Building H Gymnasium,47.327,-122.278,W2,1970,,"33,152",2,Y,No,,NO,C,492,1.05,
+Federal Way,20137,Kilo Middle School,50809,Building I Cafeteria,47.327,-122.278,W2,1970,,"7,800",1,Y,No,,NO,C,492,1.05,WSP
+Federal Way,20137,Kilo Middle School,50810,Building J,47.327,-122.278,W2,1970,,"8,160",1,Y,No,,NO,C,492,1.05,
+Federal Way,20140,Nautilus K-8 School,50828,Multipurpose Rm Bldg,47.343,-122.322,W2,1968,,"8,716",1,Y,No,,NO,C,386,1.08,DCI
+Federal Way,20140,Nautilus K-8 School,50825,Rooms 15-20 Bldg,47.343,-122.322,W2,1968,,"6,852",1,Y,No,,NO,C,386,1.08,
+Federal Way,20140,Nautilus K-8 School,50826,Rooms 1-6 Bldg,47.343,-122.322,W2,1968,,"6,892",1,Y,No,,NO,C,386,1.08,DCI
+Federal Way,20140,Nautilus K-8 School,50829,Rooms 22-25 Bldg,47.343,-122.322,W2,1968,,"8,806",1,Y,No,,NO,C,386,1.08,
+Federal Way,20140,Nautilus K-8 School,50830,Rooms 7-14 Bldg,47.343,-122.322,W2,1968,,"8,658",1,Y,No,,NO,C,386,1.08,DCI
+Federal Way,20121,Sacajawea Middle School,50701,100 Building,47.335,-122.319,RM1,1966,,"7,682",1,Y,No,,NO,C,392,1.07,
+Federal Way,20121,Sacajawea Middle School,50706,300 Building/Cafeteria,47.335,-122.319,RM1,1966,,"14,503",1,Y,No,,NO,C,392,1.07,DCI
+Federal Way,20121,Sacajawea Middle School,50703,400 Building,47.335,-122.319,RM1,1966,,"7,473",1,Y,No,,NO,C,392,1.07,
+Federal Way,20121,Sacajawea Middle School,50702,600/700/800 Building,47.335,-122.319,RM1,1966,,"19,824",1,Y,No,,NO,C,392,1.07,DCI
+Federal Way,20121,Sacajawea Middle School,50700,900 Building,47.335,-122.319,RM1,1968,,"4,674",1,Y,No,,NO,C,392,1.07,
+Federal Way,20121,Sacajawea Middle School,50705,Gym (500) Building,47.335,-122.319,RM1,1966,,"17,484",1,Y,No,,NO,C,392,1.07,DCI
+Federal Way,20121,Sacajawea Middle School,50704,Main Office Building,47.335,-122.319,RM1,1968,,"10,553",1,Y,No,,NO,C,392,1.07,
+Ferndale,21070,Central Elementary School,54971,Main Building,48.845,-122.592,W2,1920,,"44,516",2,P,Yes,1995,NO,E,151,0.87,RM
+Ferndale,21073,Custer Elementary,54976,Main Building,48.919,-122.637,W2,1936,2009,"49,103",1,P,No,,NO,D,191.4,0.73,
+Granite Falls,21083,"Crossroads HighSchool (form. MS)",55015,Crossroads HS,48.085,-121.964,RM1,2000,,"29,700",2,Y,No,,NO,D,268,0.87,RM
+Granite Falls,21086,"Granite Falls MiddleSchool (form. HS)",55028,Main Building - Gym,48.087,-121.963,RM1,1974,2001,"30,172",1,Y,No,,NO,C,395,0.74,
+Granite Falls,21086,"Granite Falls MiddleSchool (form. HS)",55028,Main Building (Excl. Gym),48.087,-121.963,RM1,1974,2001,"32,919",1,Y,No,,NO,C,395,0.74,RM
+Granite Falls,21086,"Granite Falls MiddleSchool (form. HS)",55030,Multi-Purpose Building,48.087,-121.963,W2,1980,,"4,458",1,Y,No,,NO,C,395,0.74,
+Granite Falls,21082,"Mountain WayElementary School",55012,Main Building,48.09,-121.97,W2,1988,,"51,515",1,Y,No,,NO,C,441,0.81,RM
+Highline,21094,"Beverly Park @ GlendaleElementary School",55096,Main Building A,47.51,-122.318,RM1,1963,1992,"42,692",1,Y,No,,NO,C,443.2,1.23,
+Highline,21094,"Beverly Park @ GlendaleElementary School",55097,Multi-Purpose Building B,47.51,-122.318,RM1,1963,1992,"15,453",1,Y,No,,NO,C,443.2,1.23,WSP
+Highline,21090,Chinook Middle School,55065,100 Building,47.435,-122.282,W2,1956,,"40,473",1,Y,No,,NO,C,469,1.16,
+Highline,21090,Chinook Middle School,55067,200 Building,47.435,-122.282,W2,1956,,"14,953",1,Y,No,,NO,C,469,1.16,WSP
+Highline,21090,Chinook Middle School,55063,300 Building - Gymnasium,47.435,-122.282,W2,1956,,"24,625",1,Y,No,,NO,C,469,1.16,
+Highline,21090,Chinook Middle School,55066,400 Building - Cafeteria,47.435,-122.282,W2,1956,,"7,425",1,Y,No,,NO,C,469,1.16,WSP
+Highline,21090,Chinook Middle School,55064,800 Building,47.435,-122.282,W2,1966,,"13,947",1,Y,No,,NO,C,469,1.16,
+Highline,21109,Hilltop Elementary School,55177,100 Building - Bldg A,47.494,-122.302,RM1,1957,1989,"11,990",1,Y,No,,NO,D,332.9,1.02,WSP
+Highline,21109,Hilltop Elementary School,55176,200 Building - Bldg B,47.494,-122.302,W2,1957,,"10,789",1,Y,No,,NO,D,332.9,1.02,
+Highline,21109,Hilltop Elementary School,55178,300 Building - Bldg C,47.494,-122.302,W2,1958,,"11,541",1,Y,No,,NO,D,332.9,1.02,WSP
+Highline,21109,Hilltop Elementary School,55175,400 Building - Bldg D,47.494,-122.302,W2,1998,,"19,880",1,Y,No,,NO,D,332.9,1.02,
+Highline,21095,Seahurst Elementary School,55100,Main Building,47.472,-122.353,W2,1992,,"63,917",1,Y,No,,NO,C,504,1.24,WSP
+Highline,21110,"Southern HeightsElementary School",55185,Building A,47.502,-122.315,W2,1955,1987,"11,595",1,Y,Yes,1987,NO,D,358,1.03,
+Highline,21110,"Southern HeightsElementary School",55186,Building B,47.502,-122.315,W2,1956,1987,"9,558",1,Y,Yes,1987,NO,D,358,1.03,WSP
+Highline,21110,"Southern HeightsElementary School",55188,"Building C -Admin/Multi Purpose",47.502,-122.315,RM1,1964,1987,"10,566",1,Y,No,1987,NO,D,358,1.03,
+Highline,21103,Sylvester Middle School,55128,100 Building,47.458,-122.341,W2,1953,,"36,416",1,Y,No,,NO,D,293.3,1.02,WSP
+Highline,21103,Sylvester Middle School,55131,200 Building,47.458,-122.341,C2a,1953,,"10,584",1,Y,No,,NO,D,293.3,1.02,
+Highline,21103,Sylvester Middle School,55134,"300 Building -Gymnasium/Cafeteria",47.458,-122.341,C2a,1953,1969,"26,029",1,Y,No,,NO,D,293.3,1.02,WSP
+Highline,21103,Sylvester Middle School,55130,400 Building,47.458,-122.341,C2a,1953,,"6,327",1,Y,No,,NO,D,293.3,1.02,
+Highline,21103,Sylvester Middle School,55133,500 Building - Library,47.458,-122.341,C2a,1969,,"4,560",1,Y,No,,NO,D,293.3,1.02,WSP
+Highline,21103,Sylvester Middle School,55129,600 Building,47.458,-122.341,C2a,1969,,"4,141",1,Y,No,,NO,D,293.3,1.02,
+Highline,21103,Sylvester Middle School,55132,700 Building - Band/Drama,47.458,-122.341,C2a,1969,,"4,560",1,Y,No,,NO,D,293.3,1.02,WSP
+Hockinson,21585,"Hockinson HeightsElementary School (East)",58331,Building 100 A,45.741,-122.467,RM1,1992,,"23,845",1,P,No,,NO,D,359,0.61,
+Hockinson,21585,"Hockinson HeightsElementary School (East)",58332,Building 200 C,45.741,-122.467,W2,1975,1992,"13,934",1,P,No,,NO,D,359,0.61,WRK
+Hockinson,21585,"Hockinson HeightsElementary School (East)",58328,Building 300 D,45.741,-122.467,W2,1975,1992,"10,154",1,P,No,,NO,D,359,0.61,
+Hockinson,21585,"Hockinson HeightsElementary School (East)",58326,Building 400 B,45.741,-122.467,W2,1992,,"3,982",1,P,No,,NO,D,359,0.61,WRK
+Hockinson,21585,"Hockinson HeightsElementary School (East)",58327,Building 500 E,45.741,-122.467,W2,1980,2000,"10,091",1,P,No,,NO,D,359,0.61,
+Hockinson,21585,"Hockinson HeightsElementary School (East)",58329,Building 600 F,45.741,-122.467,W2,1980,2000,"5,254",1,P,No,,NO,D,359,0.61,WRK
+Hockinson,21585,"Hockinson HeightsElementary School (East)",58325,Building 800 H,45.741,-122.467,W2,1975,2000,"6,904",1,P,No,,NO,D,359,0.61,
+Hoquiam,21588,Central Elementary School,58356,Main Building,46.98,-123.889,C2,1952,2000,"38,946",1,P,No,,YES,E,168.4,1.33,WSP
+Hoquiam,21589,Emerson Elementary School,58357,Main Building,46.981,-123.904,C2,1954,2002,"30,641",1,P,No,,YES,E,130.8,1.33,
+Hoquiam,21586,Hoquiam High School,58347,D-Business Education,46.983,-123.91,W2,1966,,"9,513",1,P,No,,YES,D,242,1.02,WSP
+Hoquiam,21586,Hoquiam High School,58345,F-Humanities,46.983,-123.91,W2,1966,,"11,954",1,P,No,,YES,D,242,1.02,
+Hoquiam,21586,Hoquiam High School,58346,G-Little Theater,46.983,-123.91,RM1,1966,,"14,607",1,P,No,,YES,D,242,1.02,WSP
+Kelso,21596,Coweeman Middle School,58393,Main Building,46.144,-122.889,W2,1961,,"76,925",1,Y,No,,NO,E,111.8,0.77,
+Kelso,21597,Rose Valley Elementary School,58396,Main Building,46.098,-122.827,URM,1939,1984,"21,937",2,Y,No,,NO,C,423,0.69,WRK
+La Center,20153,"La Center Elementary& Middle Schools",50901,"Building 300 -ES Main Building",45.861,-122.664,W2,1938,2004,"31,357",1,Y,No,,NO,D,353,0.63,
+Lake Washington,21226,Dickinson Elementary School,55935,Main Building,47.669,-122.062,W2,1992,,"49,156",1,Y,No,,NO,C,499.3,1.01,RM
+Lake Washington,21212,Einstein Elementary School,55836,Main Building,47.702,-122.098,S2a,1997,,"50,253",2,Y,No,,NO,C,450,1.01,
+Lake Washington,21223,Emerson Campus,55920,Emerson,47.656,-122.194,W2,1982,,"28,187",1,Y,No,,NO,D,341.3,0.85,RM
+Lake Washington,21201,Rockwell Elementary School,55771,Main Building,47.699,-122.126,RM1,1986,,"48,953",1,Y,No,,NO,D,353.3,0.84,
+Lake Washington,21214,Wilder Elementary School,55846,Main Building,47.719,-122.041,W2,1989,,"49,154",1,Y,No,,NO,C,549.8,1.02,RM
+Longview,21614,Mint Valley Elementary School,58459,Building A - 1,46.166,-122.974,RM1,1969,,"7,683",1,Y,No,,YES,E,159,0.79,
+Longview,21614,Mint Valley Elementary School,58458,Building B - 2,46.166,-122.974,RM1,1969,,"7,046",1,Y,No,,YES,E,159,0.79,WRK
+Longview,21614,Mint Valley Elementary School,58461,Building D - 4,46.166,-122.974,RM1,1969,,"6,427",1,Y,No,,YES,E,159,0.79,
+Longview,21615,Mt. Solo Middle School,58466,Main Building,46.165,-123.02,RM1,2003,,"81,210",1,Y,No,,YES,E,142,0.8,WRK
+Longview,21612,Northlake Elementary School,58447,Main Building,46.145,-122.944,W2,1954,,"32,363",1,N,No,,NO,D-E*,#N/A,0.78,
+Longview,21607,Olympic Elementary School,58438,Annex Building,46.139,-122.962,W2,1958,,"6,583",1,N,No,,NO,E,159,0.78,WRK
+Longview,21607,Olympic Elementary School,58436,Main Building,46.139,-122.962,W2,1950,,"27,618",1,N,No,,NO,E,159,0.78,
+Longview,21607,Olympic Elementary School,58437,Multipurpose Building,46.139,-122.962,RM1,1958,,"8,323",1,N,No,,NO,E,159,0.78,WRK
+Longview,21605,Robert Gray Elementary School,58432,Main Building,46.171,-122.993,RM2,1997,,"49,730",1,Y,No,,YES,E,119,0.8,
+Lopez Island,21248,Lopez Elementary School,56065,Elementary,48.492,-122.897,W2,1978,,"24,469",1,Y,No,,NO,C,413.4,0.98,WRK
+Lopez Island,21249,Lopez Middle High School,56067,Gym/Tech Building,48.492,-122.899,RM1,1988,,"19,750",1,Y,No,,NO,C,413.4,0.98,
+Lopez Island,21249,Lopez Middle High School,56068,Junior Senior High Building,48.492,-122.899,W2,1930,,"13,724",1,N,No,,NO,C,413.4,0.98,WRK
+Mary M Knight,20155,Mary M. Knight School,50921,Elementary School,47.199,-123.432,W2,1963,,"13,333",1,Y,No,,NO,C,427,1.25,
+Mary M Knight,20155,Mary M. Knight School,50924,High School Building,47.199,-123.432,W2,1979,,"29,349",1,Y,No,,NO,C,427,1.25,WSP
+Marysville,21255,Cascade Elementary School,56103,Unit A,48.085,-122.16,"RM1, W2",1955,,"12,730",1,Y,Yes,1972,NO,D,288.8,0.77,
+Marysville,21255,Cascade Elementary School,56101,Unit B,48.085,-122.16,"RM1, W2",1955,,"12,110",1,Y,No,,NO,D,288.8,0.77,RM
+Marysville,21255,Cascade Elementary School,56104,Unit C,48.085,-122.16,"RM1, W2",1956,,"4,976",1,Y,Yes,1972,NO,D,288.8,0.77,
+Marysville,21255,Cascade Elementary School,56102,Unit D,48.085,-122.16,"RM1, W2",1956,,"7,868",1,Y,Yes,1972,NO,D,288.8,0.77,RM
+Marysville,21268,"Marysville PilchuckSenior High School",56254,"Arts & Crafts Building -Bldg B",48.096,-122.155,RM1,1970,,"10,107",1,Y,No,,NO,D,304,0.77,
+Marysville,21268,"Marysville PilchuckSenior High School",56248,Auditorium - Bldg K,48.096,-122.155,RM1,1970,,"30,632",1,Y,No,,NO,D,304,0.77,RM
+Marysville,21268,"Marysville PilchuckSenior High School",56242,"Business Ed & HomeLearning - Bldg C",48.096,-122.155,RM1,1970,,"11,224",1,Y,No,,NO,D,304,0.77,
+Marysville,21268,"Marysville PilchuckSenior High School",56240,East Building - Bldg H,48.096,-122.155,RM1,1970,,"8,606",1,Y,No,,NO,D,304,0.77,RM
+Marysville,21268,"Marysville PilchuckSenior High School",56246,"Gym & New FoodCommons - Bldg M",48.096,-122.155,RM1,1970,,"58,730",2,Y,No,,NO,D,304,0.77,
+Marysville,21268,"Marysville PilchuckSenior High School",56244,Library - Bldg J,48.096,-122.155,RM1,1970,,"19,772",1,Y,No,,NO,D,304,0.77,RM
+Marysville,21268,"Marysville PilchuckSenior High School",56253,Life Science Building - Bldg F,48.096,-122.155,RM1,1970,,"10,225",1,N,No,,NO,D,304,0.77,
+Marysville,21268,"Marysville PilchuckSenior High School",56235,"Mech Plant & FormerCafeteria - Bldg E",48.096,-122.155,RM1,1970,,"14,892",1,Y,No,,NO,D,304,0.77,RM
+Marysville,21268,"Marysville PilchuckSenior High School",56245,"Occupational Center -Bldg A",48.096,-122.155,RM1,1970,,"15,494",1,Y,No,,NO,D,304,0.77,
+Marysville,21268,"Marysville PilchuckSenior High School",56233,Pool Building - Bldg L,48.096,-122.155,RM1,1970,,"25,116",1,Y,No,,NO,D,304,0.77,RM
+Marysville,21268,"Marysville PilchuckSenior High School",56247,South Building - Bldg N,48.096,-122.155,RM1,1984,,"9,169",1,N,No,,NO,D,304,0.77,
+Marysville,21259,Pinewood Elementary School,56134,Bldg E,48.073,-122.162,RM1,1968,,"2,045",1,Y,No,,NO,D,243.9,0.78,RM
+Marysville,21259,Pinewood Elementary School,56141,Bldg L (Library),48.073,-122.162,RM1,1968,,"3,747",1,Y,No,,NO,D,243.9,0.78,
+Marysville,21259,Pinewood Elementary School,56139,Bldg M (Gym),48.073,-122.162,RM1,1968,,"8,086",1,Y,No,,NO,D,243.9,0.78,RM
+Marysville,21259,Pinewood Elementary School,56135,Building A,48.073,-122.162,RM1,1968,,"2,492",1,Y,No,,NO,D,243.9,0.78,
+Marysville,21259,Pinewood Elementary School,56142,Building D,48.073,-122.162,RM1,1968,,"3,568",1,Y,No,,NO,D,243.9,0.78,RM
+Marysville,21265,"Quil Ceda TulalipElementary School",56204,Main Building,48.064,-122.199,W2,1997,,"48,195",1,Y,No,,NO,D,263,0.79,
+Marysville,21270,Shoultes Elementary School,56264,Bldg B (A Bldg in ICOS),48.118,-122.162,RM1,1958,,"12,348",1,Y,No,,NO,D,252.9,0.77,RM
+Marysville,21270,Shoultes Elementary School,56266,Bldg A Gym (B Bldg in ICOS),48.118,-122.162,RM1,1964,,"6,448",1,Y,No,,NO,D,252.9,0.77,
+Marysville,21270,Shoultes Elementary School,56265,Bldg D (C Bldg in ICOS),48.118,-122.162,RM1,1964,,"10,575",1,Y,No,,NO,D,252.9,0.77,RM
+Marysville,21270,Shoultes Elementary School,56267,Bldg C (D Bldg in ICOS),48.118,-122.162,RM1,1967,,"9,405",1,Y,No,,NO,D,252.9,0.77,
+Mount Baker,21292,Acme Elementary School,56410,Main Building,48.719,-122.209,W2,1937,,"17,964",1,N,No,,NO,D,207.5,0.7,RM
+Napavine,21626,Napavine Elementary School,58512,Main Building,46.578,-122.905,W2,1951,,"15,770",1,Y,No,,NO,C,374.7,0.89,
+Napavine,21627,"Napavine Junior SeniorHigh School",58513,Annex,46.577,-122.904,W2,1955,,"11,274",1,Y,No,,NO,C,374.7,0.89,WRK
+Napavine,21627,"Napavine Junior SeniorHigh School",58514,Main,46.577,-122.904,S2a,1980,,"44,360",1,Y,No,,NO,C,374.7,0.89,
+"Naselle-GraysRiver Valley",20167,Naselle K-12 School,51032,High School/Admin,46.377,-123.801,W2,1952,1995,"34,621",1,P,No,,NO,D,301,0.85,WRK
+"Naselle-GraysRiver Valley",20167,Naselle K-12 School,51032,Elementary,46.377,-123.801,W2,1952,1995,"29,156",1,Y,No,,NO,D,301,0.85,
+North Beach,21631,"North Beach Junior/Senior High School",58529,Main Building,47.019,-124.158,RM1,1991,,"71,428",1,Y,No,,YES,D,256,1.04,WSP
+North Mason,21646,Belfair Elementary School,58613,Gymnasium Building,47.439,-122.834,RM1,1970,,"7,470",1,Y,No,,NO,C,376,1.3,
+North Mason,21646,Belfair Elementary School,58614,Main Building,47.439,-122.834,RM2,1970,,"33,648",2,Y,No,,NO,C,376,1.3,DCI
+North Mason,21649,North River School,58630,Elementary,46.775,-123.484,W2,1945,,"3,702",1,N,No,,NO,D,311,0.89,
+North River,21649,North River School,58634,Gym Home Ec-Cafeteria,46.775,-123.484,W2,1922,,"9,885",1,N,No,,NO,D,311,0.89,WRK
+North Mason,21649,North River School,58631,High School & Admin Building,46.775,-123.484,W2,1922,,"11,228",1,N,No,,NO,D,311,0.89,
+North River,21649,North River School,58636,Talley Building (Music/Art),46.775,-123.484,W2,1945,,"2,880",1,N,No,,NO,D,311,0.89,WRK
+Northshore,21333,Canyon Creek Elementary School,56750,Building A - Classroom/Library,47.805,-122.188,W2,1977,,"17,477",1,Y,No,,NO,C,431,1.05,
+Northshore,21333,Canyon Creek Elementary School,56753,Building C - Cafeteria/Gym,47.805,-122.188,RM1,1977,,"18,951",1,Y,No,,NO,C,431,1.05,RM
+Northshore,21335,Crystal Springs Elementary School,56775,Building 1 - Admin,47.801,-122.22,RM1,1957,,"7,626",1,Y,Yes,2010,NO,D,358,0.87,
+Northshore,21335,Crystal Springs Elementary School,56774,"Building 2 -Classrooms/Kitchen",47.801,-122.22,RM1,1957,,"7,172",1,Y,Yes,2010,NO,D,358,0.87,RM
+Northshore,21335,Crystal Springs Elementary School,56772,Building 3/4 - Classrooms,47.801,-122.22,RM1,1957,,"9,875",1,Y,Yes,2010,NO,D,358,0.87,
+Northshore,21335,Crystal Springs Elementary School,56770,Building 5 - Classrooms,47.801,-122.22,RM1,1957,,"4,809",1,Y,Yes,2010,NO,D,358,0.87,RM
+Northshore,21331,Shelton View Elementary School,56732,Building A1/10 - Classroom,47.786,-122.24,RM1,1969,1989,"8,634",1,Y,No,,NO,C,431.8,1.03,
+Northshore,21331,Shelton View Elementary School,56727,Building C - Gym,47.786,-122.24,RM1,1969,1992,"5,899",1,Y,No,,NO,C,431.8,1.03,RM
+Oak Harbor,20207,Clover Valley School,51299,Main Building,48.329,-122.674,W2,1951,2000,"38,208",1,Y,No,,NO,D,311,1.09,
+Oak Harbor,20206,Oak Harbor Middle School,51291,Band Building,48.294,-122.659,RM1,1959,,"2,241",1,Y,No,,NO,C,499,0.91,RM
+Oak Harbor,20206,Oak Harbor Middle School,51288,Building B,48.294,-122.659,W2,1961,1999,"20,107",1,Y,Yes,1999,NO,C,499,0.91,
+Oak Harbor,20206,Oak Harbor Middle School,51290,C Wing,48.294,-122.659,W2,1961,1999,"27,632",1,Y,Yes,1999,NO,C,499,0.91,RM
+Oak Harbor,20206,Oak Harbor Middle School,51294,D Wing,48.294,-122.659,W2,1948,1983,"1,755",1,Y,No,,NO,C,499,0.91,
+Oak Harbor,20206,Oak Harbor Middle School,51293,Gym,48.294,-122.659,RM1,1959,,"12,310",1,Y,Yes,1999,NO,C,499,1.09,RM
+Oak Harbor,20206,Oak Harbor Middle School,51289,Main Building A,48.294,-122.659,W2,1955,1999,"14,896",1,Y,Yes,1999,NO,C,499,0.91,
+Ocean Beach,21653,Kaino Gym,58644,Kaino Gym,46.31,-124.039,W2,1885,,"3,200",1,N,No,,NO,D,184,0.86,WRK
+Olympia,21670,Boston Harbor Elementary School,58698,Main Building,47.138,-122.886,W2,1991,,"27,000",1,Y,No,,NO,C,444.4,1.16,
+Olympia,21662,Thurgood Marshall Middle School,58671,Gym Building,47.062,-122.951,RM1,1994,,"16,689",1,Y,No,,NO,C,454.7,1.15,DCI
+Olympia,21662,Thurgood Marshall Middle School,58672,Main Building,47.062,-122.951,W2,1994,,"56,347",1,Y,No,,NO,C,454.7,1.15,
+Orting,21681,Orting Primary School,58761,Main Building,47.101,-122.207,W2,1968,,"21,945",1,Y,No,,NO,D,267,0.82,WSP
+Pe Ell,20211,Pe Ell School,51320,Fitness Center,46.575,-123.3,W2,1993,,"1,500",1,P,No,,NO,C,388.4,0.94,
+Pe Ell,20211,Pe Ell School,51321,Main Building,46.575,-123.3,URM,1954,2006,"64,492",1,P,No,,NO,C,388.4,0.94,WRK
+Peninsula,21697,Discovery Elementary School,58839,Main Building,47.332,-122.604,PC1,1980,1988,"40,337",1,Y,No,,NO,C,397,1.19,
+Peninsula,21692,Gig Harbor High School,58821,Main Building,47.331,-122.605,RM1,1978,1991,"134,248",2,Y,No,,NO,C,397,1.19,DCI
+Peninsula,21692,Gig Harbor High School,58819,Two-Story Building,47.331,-122.605,W2,1991,,"47,026",1,P,No,,NO,C,397,1.19,
+Peninsula,21692,Gig Harbor High School,58820,Voc-Ed Building,47.331,-122.605,RM1,1978,1982,"12,544",1,P,No,,NO,C,397,1.19,DCI
+Peninsula,21695,Minter Creek Elementary School,58834,Main Building,47.373,-122.693,W2,1981,,"36,146",1,Y,No,,NO,C,401,1.27,
+Peninsula,21685,Peninsula High School,58793,500 Building,47.386,-122.624,W2,1946,1981,"18,439",1,P,No,,NO,C,368,1.27,DCI
+Peninsula,21685,Peninsula High School,58795,600 Building,47.386,-122.624,W2,1962,1981,"13,991",2,P,No,,NO,C,368,1.27,
+Peninsula,21685,Peninsula High School,58791,700 Building - Voc Ag,47.386,-122.624,PC1,1978,,"6,631",1,P,No,,NO,C,368,1.27,DCI
+Peninsula,21685,Peninsula High School,58792,800 Building - Auditorium Area,47.386,-122.624,W2,1970,1992,"19,451",1,P,No,,NO,C,368,1.27,
+Peninsula,21685,Peninsula High School,58794,900 Building - Pool Building,47.386,-122.624,W2,1969,1992,"19,098",2,P,No,,NO,C,368,1.27,DCI
+Peninsula,21685,Peninsula High School,58796,"Main Building(100, 200, 300, 400)",47.386,-122.624,W2,1946,1992,"92,460",2,P,No,,NO,C,368,1.27,
+Peninsula,21691,Voyager Elementary School,58817,Main Building,47.309,-122.679,W2,1988,,"41,088",1,Y,No,,NO,D,323.3,0.99,DCI
+Port Townsend,21715,Blue Heron Middle School,58917,Main Building,48.129,-122.779,CFS2,1995,,"60,124",1,Y,No,,NO,D,350,0.9,
+Puyallup,21734,Meeker Elementary School,59062,Main Building,47.188,-122.299,W2,1923,1979,"39,415",1,Y,No,,NO,E,171,1.1,DCI
+Puyallup,21722,Mt View Elementary School,58954,Main Building,47.226,-122.271,W2,1965,1991,"11,093",1,Y,No,,NO,C,499.8,1.02,
+Puyallup,21722,Mt View Elementary School,58954,Multipurpose Building,47.226,-122.271,RM1,1965,1991,"5,414",1,Y,No,,NO,C,499.8,1.02,DCI
+Puyallup,21728,Waller Road Elementary School,59011,Main Building,47.199,-122.389,URM,1936,1985,"31,241",1,Y,Yes,1985,NO,C,554,1.05,
+Puyallup,21716,Wildwood Elementary,58921,Main Building,47.166,-122.274,W2,1965,1991,"43,165",1,Y,No,,NO,C,504.2,1.01,DCI
+Quillayute Valley,21754,Forks Elementary School,59199,Main Building - 1969 Portion,47.948,-124.379,W2,1970,1989,"31,392",1,N,No,,NO,C,419,1.17,
+Quillayute Valley,21755,Forks Intermediate School,59203,Main Building - 1952 Portion,47.949,-124.384,W2,1956,1989,"24,029",1,N,No,,NO,C,419,1.17,WSP
+Quillayute Valley,21753,Forks Junior-Senior High School,59193,"Main Junior High Building -1949 Portion",47.948,-124.384,W2,1949,,"9,048",1,N,No,,NO,C,419,1.17,
+Renton,21350,Hazen Senior High School,56887,700 Building,47.501,-122.153,PC1a,1968,,"24,316",1,Y,No,,NO,C,376,1.12,RM
+Renton,21350,Hazen Senior High School,56888,Bldg 1 Gym/Pool,47.501,-122.153,PC1a,1969,,"59,744",2,Y,No,,NO,C,376,1.12,
+Renton,21350,Hazen Senior High School,56888,Bldg 1 Main Building,47.501,-122.153,PC1a,1969,2002,"129,832",1,Y,No,,NO,C,376,1.12,RM
+Renton,21350,Hazen Senior High School,56888,"Bldg 1 Music, Band, Cafeteria",47.501,-122.153,PC1a,1969,2002,"35,959",1,Y,No,,NO,C,376,1.12,
+Renton,21350,Hazen Senior High School,56885,Gym Addition,47.501,-122.153,C2a,1977,,"23,342",2,Y,No,,NO,C,376,1.12,RM
+Renton,21365,Lindbergh Senior High School,56944,Gym Addition,47.455,-122.167,RM1,1979,,"7,519",1,Y,No,,NO,C,396.7,1.11,
+Renton,21365,Lindbergh Senior High School,56944,Gymnasium,47.455,-122.167,RM1,1971,2010,"37,210",1,Y,Yes,2010,NO,C,396.7,1.11,RM
+Renton,21365,Lindbergh Senior High School,56945,Main Building - North,47.455,-122.167,RM1,1971,2003,"184,279",1,Y,No,,NO,C,396.7,1.11,
+Renton,21365,Lindbergh Senior High School,56945,Main Building - South,47.455,-122.167,RM1,1971,2003,"184,279",1,Y,No,,NO,C,396.7,1.11,RM
+Renton,21354,Renton Senior High School,56901,Cafeteria/Gym,47.482,-122.212,C2a,1954,2002,"90,714",2,Y,Yes,2002,NO,D,272,0.96,
+Ridgefield,21764,South Ridge Elementary School,59234,Main Building,45.766,-122.675,S5a,1961,1993,"40,588",1,N,No,,NO,D,316,0.64,WRK
+Skamania,21784,Skamania Elementary School,59377,Main Building,45.617,-122.049,W2,1947,,"14,277",1,P,No,,NO,D,319,0.55,
+Snohomish,21397,Cathcart Elementary School,57090,100 Building,47.827,-122.122,RM1,1966,,"4,608",1,N,No,,NO,C,474,1.06,RM
+Snohomish,21397,Cathcart Elementary School,57091,200 Building,47.827,-122.122,RM1,1966,,"3,371",1,N,No,,NO,C,474,1.06,
+Snohomish,21397,Cathcart Elementary School,57089,300 Building,47.827,-122.122,RM1,1966,,"2,352",1,N,No,,NO,C,474,1.06,RM
+Snohomish,21397,Cathcart Elementary School,57088,400 Building,47.827,-122.122,RM1,1966,,"4,612",1,N,No,,NO,C,474,1.06,
+Snohomish,21397,Cathcart Elementary School,57092,500 Building,47.827,-122.122,RM1,1980,,"5,766",1,N,No,,NO,C,474,1.06,RM
+Snohomish,21397,Cathcart Elementary School,57094,600 Building,47.827,-122.122,RM1,1966,,"3,112",1,N,No,,NO,C,474,1.06,
+Snohomish,21397,Cathcart Elementary School,57093,700 Building,47.827,-122.122,RM1,1970,,"9,786",1,N,No,,NO,C,474,1.06,RM
+Snohomish,21396,Central Elementary School,57085,Main Building,47.914,-122.092,"C2a, W2",1948,,"30,031",2,N,No,,NO,C,438,0.97,
+Snohomish,21406,Emerson Elementary School,57133,Annex,47.925,-122.084,W2,1958,,"10,393",1,N,No,,NO,C,527.6,0.95,RM
+Snohomish,21406,Emerson Elementary School,57132,Main Building,47.925,-122.084,W2,1954,,"29,645",1,N,No,,NO,C,527.6,0.95,
+South Bend,20228,South Bend Jr/Sr High School,51397,Main Building High School,46.662,-123.792,W2,1968,2010,"51,000",1,N,No,,YES,E,109,1.18,WRK
+South Whidbey,21424,"South Whidbey Grades 5 & 6 -(Formerly S. Whid. Primary)",57247,A- Classrooms,48.026,-122.456,RM1,1969,,"7,253",1,N,No,,NO,C,460,0.95,
+South Whidbey,21424,"South Whidbey Grades 5 & 6 -(Formerly S. Whid. Primary)",57245,C - Classrooms/Admin,48.026,-122.456,RM1,1969,,"7,253",1,N,No,,NO,C,460,0.95,RM
+South Whidbey,21424,"South Whidbey Grades 5 & 6 -(Formerly S. Whid. Primary)",57249,D - WIA Office/Classrooms,48.026,-122.456,RM1,1969,,"8,827",1,P,Yes,1996,NO,C,460,0.95,
+South Whidbey,21424,"South Whidbey Grades 5 & 6 -(Formerly S. Whid. Primary)",57250,E - Classrooms,48.026,-122.456,RM1,1969,,"4,880",1,P,Yes,1996,NO,C,460,0.95,RM
+South Whidbey,21424,"South Whidbey Grades 5 & 6 -(Formerly S. Whid. Primary)",57248,F - Multipurpose,48.026,-122.456,W2,1969,,"6,722",1,Y,Yes,1996,NO,C,460,0.95,
+Spokane,20792,Bancroft (The Community School),53586,Main Building,47.672,-117.428,URM,1954,,"26,081",1,Y,No,,NO,C,461,0.27,DCI
+Spokane,20782,Bryant Center,53558,Main Building,47.665,-117.437,RM1,1960,,"21,163",1,Y,No,,NO,C,389,0.27,
+Spokane,20757,Havermale (Montessori),53500,"Main Building 1928 &1940 Areas",47.677,-117.432,URMa,1928,,"43,822",2,N,No,,NO,C,449,0.27,DCI
+Spokane,20757,Havermale (Montessori),53500,Main Building 1928 Gym,47.677,-117.432,URM,1928,,"8,385",1,N,No,,NO,C,449,0.27,
+Spokane,20757,Havermale (Montessori),53500,Main Building 1965 Areas,47.677,-117.432,URM,1928,,"31,600",2,Y,No,,NO,C,449,0.27,DCI
+Spokane,20791,Madison Elementary School,53579,Main Building,47.709,-117.416,URM,1948,,"35,390",1,Y,No,,NO,D,328.8,0.32,
+Stanwood-Camano,20237,Stanwood Elementary School,51456,Main Building Unit C 1966,48.245,-122.372,W2,1966,,"9,504",1,Y,Yes,1995,YES,E,176,1.01,RM
+Stanwood-Camano,20237,Stanwood Elementary School,51456,Main Building Unit C 1981,48.245,-122.372,W2,1981,,"10,909",1,Y,No,,YES,E,176,1.01,
+Stanwood-Camano,20237,Stanwood Elementary School,51456,"Main Building Units A, B",48.245,-122.372,W2,1956,1996,"24,124",1,Y,Yes,1995,YES,E,176,1.01,RM
+Stanwood-Camano,20235,Stanwood Middle School,51449,"Building 3 - Music(Band & Choir)",48.242,-122.361,RM1,1957,1992,"4,765",1,Y,No,,YES,E,163,1,
+Stanwood-Camano,20235,Stanwood Middle School,51448,"Main Building (Building 1)Unit D",48.242,-122.361,S2a,1992,,"8,840",1,Y,No,,YES,E,163,1,RM
+Stanwood-Camano,20235,Stanwood Middle School,51448,"Main Building (Building 1)Unit G",48.242,-122.361,W2,1989,,"15,091",2,Y,No,,YES,E,163,1,
+Stanwood-Camano,20235,Stanwood Middle School,51448,"Main Building (Building 1)Units E & F",48.242,-122.361,RM1,1968,,"12,271",1,Y,No,,YES,E,163,1,RM
+Stanwood-Camano,20232,Twin City Elementary School,51411,Main Building,48.235,-122.329,S2a,1988,,"43,962",2,Y,No,,NO,D,300,0.79,
+Stevenson-Carson,21808,Carson Elementary School,59495,Main Building,45.726,-121.813,W2,1951,,"49,183",1,Y,No,,NO,C,419.1,0.49,WRK
+Stevenson-Carson,21807,Stevenson High School,59488,Main Building,45.701,-121.887,W2,1954,,"75,594",2,Y,No,,NO,D,270,0.53,
+Stevenson-Carson,21807,Stevenson High School,59491,Vocational Building,45.701,-121.887,RM1,1964,,"17,428",1,Y,No,,NO,D,270,0.53,WRK
+Stevenson-Carson,21810,Wind River Education Center,59499,Main Building,45.726,-121.811,PC1,1970,1985,"53,660",1,Y,No,,NO,C,419.1,0.49,
+Tacoma,21826,DeLong Elementary School,59598,First Bldg-Bldg B,47.249,-122.501,W2,1958,1986,"16,249",1,Y,No,,NO,C,443,1.1,DCI
+Tacoma,21826,DeLong Elementary School,59597,Original Bldg-Bldg A,47.249,-122.501,W2,1953,1986,"23,244",1,Y,No,,NO,C,443,1.1,
+Tacoma,21867,Edison Elementary School,59747,Main Building,47.204,-122.474,W2,1997,,"65,034",2,Y,No,,NO,C,409,1.08,DCI
+Tacoma,21883,Foss High School,59802,Gym-Pool-Cafeteria,47.239,-122.495,RM1,1972,2005,"99,502",3,Y,No,,NO,C,432,1.1,
+Tacoma,21883,Foss High School,59802,Main Building - 2003 Addition,47.239,-122.495,S2a,2003,,,2,Y,No,,NO,C,432,1.1,DCI
+Tacoma,21883,Foss High School,59802,Main Building - North,47.239,-122.495,RM2,1972,2005,"56,508",1,Y,No,,NO,C,432,1.1,
+Tacoma,21883,Foss High School,59802,Main Building - South,47.239,-122.495,RM2,1972,2005,"100,003",3,Y,No,,NO,C,432,1.1,DCI
+Tacoma,21824,Franklin Elementary School,59589,Main Building,47.248,-122.479,RM1,1997,,"60,957",2,Y,No,,NO,C,508,1.09,
+Tacoma,21884,Larchmont Elementary School,59804,Original Building,47.178,-122.428,W2,1969,,"33,480",1,Y,No,,NO,C,515.7,1.06,DCI
+Tacoma,21879,Lister Elementary School,59790,Main Building,47.216,-122.4,W2,1998,,"72,548",2,Y,No,,NO,C,513,1.06,
+Tacoma,21827,Manitou Park Elementary School,59601,Main Building,47.197,-122.495,W2,1994,,"69,257",2,Y,No,,NO,C,391.2,1.08,DCI
+Tacoma,21845,Mann Elementary School,59664,Main Building,47.21,-122.448,W2,1952,,"55,848",2,Y,No,,NO,C,561,1.07,
+Tacoma,21834,"Northeast TacomaElementary School",59627,Gym Bldg-Bldg 2,47.282,-122.375,RM1,1993,,"13,492",1,Y,No,,NO,C,453.9,1.07,DCI
+Tacoma,21834,"Northeast TacomaElementary School",59626,Main Bldg-Bldg 1,47.282,-122.375,W2,1993,,"42,607",2,Y,No,,NO,C,453.9,1.07,
+Tacoma,21863,Point Defiance Elementary School,59730,Main Building,47.29,-122.518,W2,1959,1987,"29,049",1,Y,No,,NO,C,428,1.13,DCI
+Tacoma,21835,Reed Elementary School,59628,Main Building,47.226,-122.461,W2,1950,1987,"36,363",2,Y,No,,NO,C,439,1.08,
+Tacoma,21853,Roosevelt Elementary School,59688,Main Bldg,47.228,-122.399,W2,1972,,"51,763",1,Y,No,,NO,C,562.2,1.06,DCI
+Tacoma,21861,Sheridan Elementary School,59723,Main Building,47.209,-122.42,W2,1993,,"58,876",2,Y,No,,NO,C,541,1.06,
+Tacoma,21837,Stanley Elementary School,59636,First Bldg,47.245,-122.46,W2,1989,,"42,378",1,Y,No,,NO,C,452,1.09,DCI
+Tacoma,21837,Stanley Elementary School,59635,Gym Bldg,47.245,-122.46,RM1,1971,1989,"15,061",1,Y,No,,NO,C,452,1.09,
+Tacoma,21872,Tacoma School of the Arts-Pacific,59768,SOTA Pacific Ave,47.244,-122.437,URM,1904,,"21,601",2,Y,No,,NO,C,399,1.08,DCI
+Tacoma,21862,Willie Stewart Academy,59727,Main Bldg,47.245,-122.443,URM,1919,,"5,985",1,Y,No,,NO,C,549,1.08,
+Toledo,21891,Toledo Elementary School,59838,Main Building,46.439,-122.853,RM1,1954,1995,"51,401",1,P,No,,NO,D,241,0.74,WRK
+Toledo,21892,Toledo Middle School,59842,Classroom Bldg. (Bldg #2),46.441,-122.85,W2,1952,1996,"7,594",2,P,No,,NO,C,603,0.82,
+Toledo,21892,Toledo Middle School,59844,Main Building (Bldg. #1),46.441,-122.85,W2,1952,1996,"35,056",2,P,No,,NO,C,603,0.82,WRK
+University Place,21910,Curtis Senior High School,59969,500 Building,47.222,-122.55,RM1,1971,,"18,408",1,Y,No,,NO,D,343,0.92,
+University Place,21913,Sunset Primary School,59982,Main Building,47.216,-122.564,W2,1966,1993,"37,958",1,Y,No,,NO,C,373.2,1.11,DCI
+Wahkiakum,20834,"Julius A. Wendt Elementary/John C. Thomas Middle School",53717,"J A Wendt ElementarySchool",46.201,-123.38,W2,1952,1994,"28,694",1,N,No,,NO,C,396,0.83,
+West Valley (Yakima),20268,West Valley Junior High School,51547,WVJH (Gym Building),46.578,-120.608,PC1a,1978,,"27,797",1,Y,No,,NO,C,428.9,0.42,WRK
+West Valley (Yakima),20268,West Valley Junior High School,51546,WVJH (Main Building),46.578,-120.608,RM2,1978,,"89,273",1,Y,No,,NO,C,428.9,0.42,
+White River,20285,"Mountain MeadowElementary School",51616,Main Building,47.151,-122.059,W2,1990,,"45,060",1,Y,No,,NO,C,398.8,0.93,WSP
+Willapa Valley,21956,Willapa Elementary School,60150,Main Building,46.676,-123.665,W2,1963,2012,"14,041",1,P,No,,NO,D,318,0.88,
+Woodland,21961,Columbia Elementary School,60181,1991 Addition,45.903,-122.753,RM1,1993,,"13,711",2,N,No,,NO,E,158,0.71,WRK
+Woodland,21961,Columbia Elementary School,60181,Main Building,45.903,-122.753,RM1,1972,1993,"47,585",2,P,No,,NO,E,158,0.71,
+Woodland,21963,Woodland Middle School,60193,Gymnasium Building,45.904,-122.748,URM,1954,1983,"27,033",1,Y,No,,NO,E,158,0.71,WRK
+Woodland,21963,Woodland Middle School,60193,Main Building,45.904,-122.748,URMa,1954,,"54,228",1,P,No,,NO,E,158,0.71,
+Woodland,21963,Woodland Middle School,60193,Performing Arts,45.904,-122.748,RM1,1954,,"9,011",1,P,No,,NO,E,158,0.71,WRK
+Woodland,21963,Woodland Middle School,60192,"Shared High School /Middle School",45.904,-122.748,URM,1954,,"12,167",1,P,No,,NO,E,158,0.71,
+Woodland,21963,Woodland Middle School,60193,Vocational Building,45.904,-122.748,RM1,1954,,"8,021",1,P,No,,NO,E,158,0.71,WRK
+Yakima,20879,Adams Elementary School,53952,8 Plex Bldg D,46.595,-120.49,URM,1971,,"8,710",1,Y,No,,NO,C,626.6,0.41,
+Yakima,20879,Adams Elementary School,53950,BLDG C-1,46.595,-120.49,RM1,1960,,"4,025",1,Y,No,,NO,C,626.6,0.41,WRK
+Yakima,20879,Adams Elementary School,53953,Old Gym C,46.595,-120.49,RM1,1960,,"5,680",1,Y,No,,NO,C,626.6,0.41,
+Yakima,20890,Hoover Elementary School,54025,Area D - Annex Building,46.581,-120.512,W2,1975,,"5,050",1,P,No,,NO,C,636,0.41,WRK
+Yakima,20890,Hoover Elementary School,54021,Classrooms - Area F,46.581,-120.512,W2,1975,,"2,170",1,P,No,,NO,C,636,0.41,
+Yakima,20890,Hoover Elementary School,54023,Main Building - Area A,46.581,-120.512,W2,1948,,"20,868",1,P,No,,NO,C,636,0.41,WRK
+Yakima,20890,Hoover Elementary School,54023,Main Building - Area B,46.581,-120.512,W2,1948,,"22,095",1,P,No,,NO,C,636,0.41,
+Yakima,20881,Nob Hill Elementary School,53961,Main Building,46.59,-120.553,URM,1951,1986,"36,889",1,Y,No,,NO,C,434,0.41,WRK
+Yakima,20875,Robertson Elementary School,53918,"100 Building - Bldg ""B""",46.605,-120.547,RM1,1958,1990,"1,990",1,Y,No,,NO,C,627,0.41,
+Yakima,20875,Robertson Elementary School,53917,"200 Building - Bldg ""C""",46.605,-120.547,RM1,1958,1990,"4,200",1,Y,No,,NO,C,627,0.41,WRK
+Yakima,20875,Robertson Elementary School,53919,"300 Building - Bldg ""D""",46.605,-120.547,RM1,1958,1990,"6,848",1,Y,No,,NO,C,627,0.41,
+Yakima,20875,Robertson Elementary School,53930,"400 Building - Bldg ""E""",46.605,-120.547,RM1,1958,1990,"6,848",1,Y,No,,NO,C,627,0.41,WRK
+Yakima,20875,Robertson Elementary School,53920,"500 Building - Bldg ""G""",46.605,-120.547,RM1,1958,1990,"5,668",1,Y,No,,NO,C,627,0.41,
+Yakima,20882,Wilson Middle School,53968,Main Building,46.589,-120.567,URMa,1961,1996,"82,203",1,P,No,,NO,C,560.2,0.42,WRK
+Yakima,20882,Wilson Middle School,53969,Science Building,46.589,-120.567,URMa,1961,1996,"5,541",1,P,No,,NO,C,560.2,0.42,
