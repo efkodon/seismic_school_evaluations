@@ -1,0 +1,6 @@
+﻿Name,Earthquake
+Very High,Sites greatest risk building has EPAT life safety risk of High to Very High or Very High.
+High,Sites greatest risk building has EPAT life safety risk of Moderate-High or High.
+Moderate,Sites greatest risk building has EPAT life safety risk of Low-Moderate or Moderate.
+Low,Sites greatest risk building has EPAT life safety risk of Very Low or Low.
+None,

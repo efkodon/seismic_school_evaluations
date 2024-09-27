@@ -1,0 +1,6 @@
+﻿Name,Earthquake Hazard
+Very High,Site has a 2% in 50 year PGA value greater than 59.5 and Liquefaction greater than Low to Moderate.
+High,Site has a 2% in 50 year PGA value greater than 59.9 or a 2% in 50 year PGA greater than 29.5 and Liquefaction greater than Low to Moderate.
+Moderate,Site has a 2% in 50 year PGA value greater than 29.5 or a 2% in 50 year PGA greater than 19.5 and Liquefaction greater than Low to Moderate.
+Low,Site has a 2% in 50 year PGA value less than 19.5 and a Liquefaction less than moderate.
+None,
