@@ -4,36 +4,14 @@ Site,"A single site or contiguous adjacent site(s) where typically a building, o
 Site_Latitude,"Latitude measures the distance north or south of the equator. Latitude lines start at the equator (0 degrees latitude) and run east and west, parallel to the equator.",
 Site_Longitude,"Longitude measures distance east or west of the prime meridian. Lines of longitude, also called meridians, are imaginary lines that divide the Earth.",
 Site_Type,The site type defines or identifies the primary use of a facility.,Values defined in Site Types sheet
-Site_EQHazardLevel,"The highest calculated building area earthquake hazard at the site. 
-A qualitative measure based on the earthquake ground motion percentile. Earthquake hazard is a measure of the frequency and severity of earthquake expected for this site.
-This is not a measure of earthquake risk. A building built to recent or current building codes in a high earthquake hazard location may have low risk because the building is well designed to resist earthquake forces.
-Conversely, a building built before earthquake codes were adopted or decades ago when the earthquake provisions were lower than now in a low earthquake hazard location may have relatively high risk because the building may suffer high levels of damage at relatively low levels of earthquake ground shaking.",Values defined in Hazard levels sheet
+Site_EQHazardLevel,"The highest calculated building area earthquake hazard at the site. A qualitative measure based on the earthquake ground motion percentile. Earthquake hazard is a measure of the frequency and severity of earthquake expected for this site. This is not a measure of earthquake risk. A building built to recent or current building codes in a high earthquake hazard location may have low risk because the building is well designed to resist earthquake forces. Conversely, a building built before earthquake codes were adopted or decades ago when the earthquake provisions were lower than now in a low earthquake hazard location may have relatively high risk because the building may suffer high levels of damage at relatively low levels of earthquake ground shaking.",Values defined in Hazard levels sheet
 Site_EQRiskLevel,Earthquake risk for this site will be calculated when all recognized buildings at the site have complete PDM Eartquake information,Values defined in Risk levels sheet
-Site_Soil,"The type of soil or rock at a given location is important for seismic evaluations because the soil or rock type governs possible amplification of earthquake ground motions.
-There are six site classes:
-A - Hard Rock
-B - Rock
-C - Very dense soil and soft rock
-D - Stiff (Firm) Soil
-E- Soft Soil
-F - Very soft soil
-DNR estimates includes these six categories, plus intermediate categories such as D-E for sites where more specific data is not available.",
-Site_Liquefaction,"Seismic calculations in ICOS use only the six standard DNR site classes - A, B, C, D, E and F (see tooltip for ""Site Soil Type Class (DNR Estimate)"".
-Some types of soils are subject to liquefaction during earthquakes, which means that the soil behaves like a liquid. Liquefaction can greatly increase the level of damage to buildings and infrastructure.
-The DNR estimates of liquefaction range from None to Very High.",
-Site_GroundMotionPercentile,"The percentile of earthquake ground motion (PGA 2% in 50 years) for this site compared to the values for all sites in Washington.
-For example, the 83rd percentile means that this site may experience earthquake ground motions higher than 83% of the sites in Washington",
+Site_Soil,"The type of soil or rock at a given location is important for seismic evaluations because the soil or rock type governs possible amplification of earthquake ground motions. There are six site classes: A - Hard Rock; B - Rock; C - Very dense soil and soft rock; D - Stiff (Firm) Soil; E- Soft Soil; F - Very soft soil. DNR estimates includes these six categories, plus intermediate categories such as D-E for sites where more specific data is not available.",
+Site_Liquefaction,"Seismic calculations in ICOS use only the six standard DNR site classes - A, B, C, D, E and F (see tooltip for ""Site Soil Type Class (DNR Estimate)"". Some types of soils are subject to liquefaction during earthquakes, which means that the soil behaves like a liquid. Liquefaction can greatly increase the level of damage to buildings and infrastructure. The DNR estimates of liquefaction range from None to Very High.",
+Site_GroundMotionPercentile,"The percentile of earthquake ground motion (PGA 2% in 50 years) for this site compared to the values for all sites in Washington. For example, the 83rd percentile means that this site may experience earthquake ground motions higher than 83% of the sites in Washington",
 Site_HasGeotechnicalStudy,Site specific geotechnical studies provide a more accurate determination of the site class and liquefaction potential than the DNR estimates tabulated above and thus refine the earthquake hazard level for this site.,
-Site_ShearWaveVelocity,"Shear-wave velocity (Vs) is an essential parameter for evaluating the dynamic properties of soils. It is the average shear-wave velocity in the top 30m, based on travel time from the surface to a depth of 30m. Vs30 is used in the NEHRP Provisions (BSSC, 1994) and the 1997 Uniform Building Code to separate sites into different classes for engineering design, with the expectation that sites in the same class will respond similarly to a given earthquake. These site classes are as follows:
-
-Class A – hard rock – Vs30 > 1500 m/s
-Class B – rock – 760 < Vs30 = 1500 m/s
-Class C – very dense soil and soft rock – 360 < Vs30 = 760 m/s
-Class D – stiff soil – 180 < Vs30 = 360 m/s
-Class E – soft soil – Vs30 < 180 m/s
-Class F – soils requiring site-specific evaluation",
-Building,"The Name of the Building
-A building is one continuous enclosed structure that may or may not be connected with other structures by passageways.It includes the structure itself with all plumbing, sanitary, heating, ventilation, mechanical, and electrical systems in the structure as well as all fixed equipment. Examples: Building A, Building 200, Shipley Hall, Covered Play building.",
+Site_ShearWaveVelocity,"Shear-wave velocity (Vs) is an essential parameter for evaluating the dynamic properties of soils. It is the average shear-wave velocity in the top 30m, based on travel time from the surface to a depth of 30m. Vs30 is used in the NEHRP Provisions (BSSC, 1994) and the 1997 Uniform Building Code to separate sites into different classes for engineering design, with the expectation that sites in the same class will respond similarly to a given earthquake. These site classes are as follows: Class A – hard rock – Vs30 > 1500 m/s. Class B – rock – 760 < Vs30 = 1500 m/s. Class C – very dense soil and soft rock – 360 < Vs30 = 760 m/s. Class D – stiff soil – 180 < Vs30 = 360 m/s. Class E – soft soil – Vs30 < 180 m/s. Class F – soils requiring site-specific evaluation.",
+Building,"The Name of the Building. A building is one continuous enclosed structure that may or may not be connected with other structures by passageways.It includes the structure itself with all plumbing, sanitary, heating, ventilation, mechanical, and electrical systems in the structure as well as all fixed equipment. Examples: Building A, Building 200, Shipley Hall, Covered Play building.",
 Building_Type,The profile defines or identifies the primary use of a building.,Values defined in Building Types sheet
 Building_HasEvaluation,The building has been evaluated by one of the defined evaluation types ,Values defined in Evaluation Types sheet
 Building_YearBuilt,"The year that construction was completed, generally considered the year first occupied or put into use.",
@@ -41,8 +19,7 @@ Building_GrossSqFt,"The total area of enclosed space measured to the exterior wa
 BuildingArea_Name,"The name of the area within a building, usually defined by the unique year the area was built",
 BuildingArea_YearBuilt,The year the area within the building was constructed,
 BuildingArea_CodeYear,The year of code construction regulartions that were used when building the area,
-BuildingArea_NumberOfFloors,"A count of all levels that can be occupied including basements.
-This may include an occupied mezzanine in shops and gyms but is not intended to include mechanical mezzanines, attics, or crawl spaces.",
+BuildingArea_NumberOfFloors,"A count of all levels that can be occupied including basements. This may include an occupied mezzanine in shops and gyms but is not intended to include mechanical mezzanines, attics, or crawl spaces.",
 BuildingArea_ConstructionType,The type of construction for the building Area,Values defined in Construction Types sheet
 BuildingArea_VerticalIrregularity,"Irregular structures have certain physical discontinuities either in plan or in elevation or both which affect the performance of the structure subjected to lateral loads. Irregularities in the distribution of mass, stiffness and geometry along the height of any building are grouped as vertical irregularities.",
 BuildingArea_HorizontalIrregularity,Horizontal irregularities can be attributed to the presence of discontinuities in plan. Different structural irregularities affect the seismic response of structures in different ways. Irregularities are introduced in real structures for both aesthetics and utility.,
