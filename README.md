@@ -2,7 +2,7 @@
 
 <b>By Emily Keller-O'Donnell</b>
 
-This project analyzes and compares information about earthquake building risks at K-12 public schools in Washington State, using multiple state and local data sources. The coding documents in this repository show the data analysis that was used for the article, "<a href="https://washingtonstatestandard.com/2024/09/30/earthquake-risk-data-for-washington-public-schools-is-incomplete-and-out-of-reach/">Earthquake Risk Data for Washington Public Schools is Incomplete and Out of Reach</a>", published in the <i>Washington State Standard</i> on September 30, 2024. 
+This project analyzes and compares information about earthquake building risks at K-12 public schools in Washington State, using multiple state and local data sources. The coding documents in this repository show the data analysis that was used for the article, "<a href="https://washingtonstatestandard.com/2024/09/30/earthquake-risk-data-for-washington-public-schools-is-incomplete-and-out-of-reach/">Earthquake risk data for Washington public schools is incomplete and out of reach</a>", published in the <i>Washington State Standard</i> on September 30, 2024. 
 
 The primary data source for this project is a spreadsheet from the Pre-Disaster Mitigation database of the <a href="https://ospi.k12.wa.us/policy-funding/school-buildings-facilities/information-and-condition-schools-icos">Information and Condition of Schools</a> (ICOS) system, obtained by public records request from the Washington Office of Superintendent of Public Instruction. This data, representing more than 2,000 schools, was provided in August 2024 and does not reflect subsequent updates. The spreadsheet contains a snapshot of information from the full database. 
 
